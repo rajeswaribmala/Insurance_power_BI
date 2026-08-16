@@ -1,0 +1,1001 @@
+CustomerID,CustomerName,State,Gender,Education,MaritalStatus,Income,CustomerLifetimeValue,PolicyID,AgentID,EffectiveDate
+1,Customer_1,Kerala,Male,Master,Divorced,826116,127246.63,297,43,2024-05-16
+2,Customer_2,Karnataka,Female,Doctorate,Married,897177,87268.44,279,25,2024-04-11
+3,Customer_3,Kerala,Male,Bachelor,Divorced,1003148,42698.74,211,3,2023-11-22
+4,Customer_4,Andhra Pradesh,Female,Doctorate,Divorced,1861769,124904.66,78,32,2025-09-14
+5,Customer_5,Tamil Nadu,Male,Master,Single,1972176,71642.87,270,30,2023-01-16
+6,Customer_6,Karnataka,Female,Bachelor,Single,1184593,119413.54,136,22,2024-09-30
+7,Customer_7,Andhra Pradesh,Male,Master,Divorced,1319087,63201.32,163,41,2025-01-05
+8,Customer_8,Andhra Pradesh,Male,High School,Single,1523640,105815.94,148,15,2025-02-03
+9,Customer_9,Tamil Nadu,Female,High School,Divorced,1676166,132161.09,228,11,2024-12-11
+10,Customer_10,Kerala,Male,High School,Married,1869633,17856.69,184,24,2024-03-17
+11,Customer_11,Karnataka,Male,Doctorate,Divorced,1629839,120952.73,88,12,2023-03-22
+12,Customer_12,Telangana,Female,Bachelor,Married,1422969,30036.48,237,41,2023-09-18
+13,Customer_13,Andhra Pradesh,Female,High School,Married,803207,104865.52,81,5,2024-03-28
+14,Customer_14,Kerala,Female,Doctorate,Divorced,724493,73957.01,155,13,2024-01-29
+15,Customer_15,Andhra Pradesh,Male,Bachelor,Married,1399408,60254.28,152,45,2023-10-30
+16,Customer_16,Tamil Nadu,Female,Master,Single,1386839,131109.44,26,39,2025-02-02
+17,Customer_17,Andhra Pradesh,Female,Bachelor,Divorced,1881773,59324.93,98,40,2023-09-14
+18,Customer_18,Karnataka,Male,High School,Married,1853836,71715.25,297,24,2025-01-19
+19,Customer_19,Karnataka,Male,Master,Married,1767580,68170.43,103,9,2025-03-16
+20,Customer_20,Telangana,Female,Master,Single,738905,137966.85,247,19,2025-02-03
+21,Customer_21,Kerala,Male,Doctorate,Single,495188,115581.21,116,44,2025-01-11
+22,Customer_22,Andhra Pradesh,Female,High School,Married,229189,47024.2,64,30,2024-01-13
+23,Customer_23,Kerala,Female,Master,Single,1615234,42735.07,13,40,2025-06-24
+24,Customer_24,Telangana,Female,Bachelor,Divorced,332575,98956.55,238,45,2023-11-06
+25,Customer_25,Andhra Pradesh,Male,Bachelor,Single,278039,52611.04,253,8,2023-04-10
+26,Customer_26,Karnataka,Male,Doctorate,Married,978067,103868.07,277,27,2024-08-24
+27,Customer_27,Karnataka,Female,High School,Married,1491116,67136.22,144,3,2024-12-07
+28,Customer_28,Kerala,Male,Doctorate,Married,695164,129763.03,51,44,2024-01-12
+29,Customer_29,Telangana,Female,High School,Married,778565,36573.2,63,30,2023-04-04
+30,Customer_30,Karnataka,Male,High School,Married,710800,148434.93,290,14,2023-03-12
+31,Customer_31,Telangana,Male,Bachelor,Single,889039,118411.6,2,18,2025-05-29
+32,Customer_32,Karnataka,Male,Master,Single,430532,102548.07,14,9,2023-01-16
+33,Customer_33,Kerala,Male,Master,Single,565420,47151.45,65,48,2024-03-07
+34,Customer_34,Telangana,Male,High School,Married,1140101,118922.39,263,38,2023-04-22
+35,Customer_35,Andhra Pradesh,Male,High School,Divorced,1842546,137225.24,267,20,2024-04-14
+36,Customer_36,Tamil Nadu,Male,Doctorate,Married,1093960,106053.65,252,46,2025-07-20
+37,Customer_37,Andhra Pradesh,Male,High School,Married,1475692,30766.74,65,18,2024-10-01
+38,Customer_38,Telangana,Female,Doctorate,Divorced,1312658,51285.68,259,39,2024-03-16
+39,Customer_39,Tamil Nadu,Male,Bachelor,Married,1146979,134332.74,212,22,2025-04-27
+40,Customer_40,Andhra Pradesh,Female,Doctorate,Divorced,399409,53756.77,161,43,2023-09-19
+41,Customer_41,Kerala,Male,Doctorate,Single,391312,126448.06,48,28,2023-04-09
+42,Customer_42,Kerala,Male,High School,Divorced,1377732,88635.67,63,27,2023-12-29
+43,Customer_43,Andhra Pradesh,Male,Master,Divorced,855252,59230.47,296,33,2023-08-06
+44,Customer_44,Karnataka,Female,Bachelor,Single,934242,128352.28,189,8,2025-02-19
+45,Customer_45,Kerala,Male,Doctorate,Divorced,1809422,124579.76,286,2,2024-09-15
+46,Customer_46,Kerala,Male,Bachelor,Married,1673666,116737.33,174,23,2023-01-07
+47,Customer_47,Karnataka,Male,Doctorate,Single,497532,113735.67,16,6,2025-02-03
+48,Customer_48,Telangana,Male,Doctorate,Married,1151364,57725.44,190,20,2025-01-08
+49,Customer_49,Kerala,Male,High School,Single,530112,115621.02,26,44,2023-03-25
+50,Customer_50,Kerala,Female,Doctorate,Married,1473130,71886.19,140,14,2025-02-12
+51,Customer_51,Telangana,Male,Master,Married,432552,49654.51,250,34,2024-11-14
+52,Customer_52,Kerala,Male,Bachelor,Married,1456875,17669.47,105,20,2025-08-26
+53,Customer_53,Karnataka,Male,Master,Married,888122,26797.81,255,48,2024-03-16
+54,Customer_54,Karnataka,Male,Doctorate,Divorced,1675705,42215.5,287,43,2025-04-05
+55,Customer_55,Kerala,Male,Doctorate,Divorced,288714,71070.74,236,5,2025-06-01
+56,Customer_56,Kerala,Female,Doctorate,Divorced,1542474,68477.15,59,26,2023-01-22
+57,Customer_57,Kerala,Male,Doctorate,Divorced,958860,22338.18,55,16,2024-03-22
+58,Customer_58,Telangana,Female,High School,Married,850692,114412.68,114,22,2025-03-08
+59,Customer_59,Karnataka,Male,High School,Divorced,1269446,37146.52,179,23,2025-01-14
+60,Customer_60,Karnataka,Male,High School,Single,736804,37618.05,79,49,2025-02-16
+61,Customer_61,Tamil Nadu,Male,Doctorate,Married,1782187,88922.97,297,29,2024-11-28
+62,Customer_62,Telangana,Female,Master,Single,1122249,19560.08,227,41,2023-11-07
+63,Customer_63,Kerala,Male,Master,Divorced,355589,53457.1,232,3,2023-02-28
+64,Customer_64,Kerala,Female,High School,Divorced,1993680,22641.51,260,25,2024-04-18
+65,Customer_65,Telangana,Male,Doctorate,Divorced,1567002,36353.53,244,33,2023-06-04
+66,Customer_66,Tamil Nadu,Female,High School,Married,1698028,21806.08,89,3,2023-09-11
+67,Customer_67,Andhra Pradesh,Female,Bachelor,Married,981927,138511.15,199,27,2025-03-04
+68,Customer_68,Kerala,Male,Master,Single,891411,23230.83,198,19,2023-09-16
+69,Customer_69,Telangana,Male,Master,Single,1422093,102905.69,180,20,2025-09-17
+70,Customer_70,Andhra Pradesh,Male,High School,Married,1372144,62735.1,169,9,2024-11-17
+71,Customer_71,Telangana,Male,Doctorate,Divorced,958808,12552.28,159,12,2025-08-31
+72,Customer_72,Karnataka,Female,Doctorate,Single,675095,149996.73,80,5,2023-10-30
+73,Customer_73,Tamil Nadu,Male,Master,Divorced,474829,93614.5,79,11,2023-07-05
+74,Customer_74,Telangana,Male,Doctorate,Single,1061632,61001.92,122,29,2024-09-17
+75,Customer_75,Kerala,Female,Bachelor,Divorced,701572,53325.51,241,13,2024-01-12
+76,Customer_76,Telangana,Female,Doctorate,Married,1831844,63462.14,271,27,2025-09-16
+77,Customer_77,Karnataka,Male,Bachelor,Married,309428,99765.07,191,36,2025-08-14
+78,Customer_78,Tamil Nadu,Male,Master,Single,1800371,32443.73,231,33,2023-05-31
+79,Customer_79,Andhra Pradesh,Male,Bachelor,Married,933133,140266.07,213,4,2024-02-10
+80,Customer_80,Telangana,Female,Bachelor,Married,371139,62487.77,15,21,2025-08-11
+81,Customer_81,Tamil Nadu,Female,Bachelor,Single,280327,50163.12,242,45,2025-05-01
+82,Customer_82,Karnataka,Female,Doctorate,Divorced,211012,136820.05,10,17,2023-08-09
+83,Customer_83,Karnataka,Female,High School,Married,698367,52161.17,25,16,2024-03-05
+84,Customer_84,Telangana,Female,High School,Single,1954661,136720.56,275,2,2024-10-09
+85,Customer_85,Telangana,Male,Bachelor,Married,1100179,10219.01,181,16,2024-08-07
+86,Customer_86,Andhra Pradesh,Male,High School,Divorced,956240,19475.11,270,35,2024-06-03
+87,Customer_87,Telangana,Male,Doctorate,Married,291298,98993.91,192,17,2025-02-04
+88,Customer_88,Tamil Nadu,Female,High School,Married,705677,112611.74,54,50,2024-08-18
+89,Customer_89,Kerala,Male,High School,Married,1345073,57396.62,90,50,2024-12-02
+90,Customer_90,Andhra Pradesh,Female,Bachelor,Single,332331,110246.31,235,3,2023-10-28
+91,Customer_91,Karnataka,Male,Bachelor,Single,861852,140671.94,264,26,2025-04-14
+92,Customer_92,Telangana,Female,Master,Single,1779765,100566.07,147,23,2025-06-01
+93,Customer_93,Tamil Nadu,Female,Master,Single,1876342,61522.68,205,48,2024-03-26
+94,Customer_94,Andhra Pradesh,Female,Bachelor,Married,1651372,79653.27,266,18,2025-03-31
+95,Customer_95,Tamil Nadu,Female,High School,Married,1463436,149313.74,93,35,2023-10-28
+96,Customer_96,Kerala,Male,High School,Married,1586048,51389.59,229,39,2025-01-04
+97,Customer_97,Andhra Pradesh,Male,Doctorate,Married,1137698,15929.72,181,40,2024-03-21
+98,Customer_98,Kerala,Male,High School,Divorced,1536960,66869.43,263,48,2024-11-26
+99,Customer_99,Karnataka,Male,Bachelor,Divorced,1622055,119383.68,18,9,2023-03-10
+100,Customer_100,Karnataka,Female,Master,Married,1389598,14533.95,79,44,2024-04-05
+101,Customer_101,Kerala,Female,Doctorate,Single,1403601,29277.32,188,26,2023-11-18
+102,Customer_102,Kerala,Male,High School,Single,1742822,36046.73,266,25,2025-07-24
+103,Customer_103,Telangana,Male,Master,Married,1676474,72478.24,147,45,2025-07-27
+104,Customer_104,Andhra Pradesh,Male,High School,Single,1988506,20367.29,89,46,2024-03-31
+105,Customer_105,Tamil Nadu,Female,Master,Divorced,336187,86999.6,149,20,2025-05-21
+106,Customer_106,Karnataka,Male,Master,Divorced,670268,26990.74,103,9,2023-08-31
+107,Customer_107,Andhra Pradesh,Male,Master,Divorced,1400152,61647.56,283,9,2024-09-18
+108,Customer_108,Tamil Nadu,Male,Master,Married,1703518,110641.75,270,27,2025-02-26
+109,Customer_109,Andhra Pradesh,Male,Bachelor,Married,1547081,20383.1,239,44,2024-06-13
+110,Customer_110,Kerala,Male,Bachelor,Single,1107266,80400.93,29,8,2024-06-14
+111,Customer_111,Karnataka,Female,Bachelor,Single,876668,140863.3,116,23,2025-08-28
+112,Customer_112,Telangana,Female,High School,Married,611674,98907.99,283,18,2023-05-09
+113,Customer_113,Kerala,Male,Bachelor,Divorced,1417703,31587.2,173,37,2023-02-12
+114,Customer_114,Tamil Nadu,Male,High School,Divorced,1816951,90747.97,108,50,2024-08-08
+115,Customer_115,Andhra Pradesh,Male,Doctorate,Divorced,1344158,50554.03,155,31,2023-09-08
+116,Customer_116,Andhra Pradesh,Female,Doctorate,Single,1644127,18387.82,226,27,2024-05-10
+117,Customer_117,Andhra Pradesh,Male,Master,Divorced,501295,53761.55,164,47,2025-05-31
+118,Customer_118,Kerala,Female,Bachelor,Married,1279991,88631.17,164,16,2024-04-22
+119,Customer_119,Tamil Nadu,Female,Doctorate,Single,495441,23553.63,149,25,2025-06-03
+120,Customer_120,Telangana,Female,Bachelor,Single,1905986,55841.01,296,47,2023-11-17
+121,Customer_121,Karnataka,Male,Doctorate,Divorced,1178982,79826.36,158,32,2023-01-24
+122,Customer_122,Tamil Nadu,Female,Doctorate,Single,651190,91668.18,25,4,2023-10-16
+123,Customer_123,Andhra Pradesh,Female,Master,Divorced,217149,128604.13,221,9,2025-06-22
+124,Customer_124,Kerala,Female,Doctorate,Married,294880,66081.43,292,36,2023-07-19
+125,Customer_125,Kerala,Female,High School,Married,1257500,73049.61,282,18,2025-04-25
+126,Customer_126,Telangana,Male,Bachelor,Single,1026075,62247.77,174,36,2025-08-19
+127,Customer_127,Kerala,Male,Bachelor,Divorced,1267707,66194.19,21,3,2023-02-09
+128,Customer_128,Karnataka,Female,Doctorate,Divorced,1158374,30851.69,264,9,2023-12-02
+129,Customer_129,Telangana,Female,Bachelor,Married,1492895,113504.71,154,38,2023-12-11
+130,Customer_130,Telangana,Female,Master,Married,1910749,12329.17,170,44,2023-04-23
+131,Customer_131,Andhra Pradesh,Female,High School,Divorced,1195287,47174.26,297,37,2023-08-22
+132,Customer_132,Tamil Nadu,Female,Bachelor,Divorced,1519161,110965.6,195,10,2025-04-21
+133,Customer_133,Karnataka,Male,High School,Single,239714,71745.4,215,10,2024-02-27
+134,Customer_134,Karnataka,Female,Doctorate,Divorced,1725472,18719.38,71,34,2023-08-01
+135,Customer_135,Telangana,Female,Doctorate,Divorced,990258,53925.36,89,30,2025-07-23
+136,Customer_136,Telangana,Female,Master,Divorced,1818979,131471.62,136,40,2024-05-10
+137,Customer_137,Karnataka,Male,Master,Divorced,825998,41481.39,153,50,2023-10-23
+138,Customer_138,Karnataka,Female,Master,Married,931493,88468.26,141,19,2023-05-05
+139,Customer_139,Telangana,Female,Doctorate,Married,1821233,122646.22,149,3,2023-10-22
+140,Customer_140,Tamil Nadu,Female,Doctorate,Divorced,737801,114627.39,110,13,2025-04-27
+141,Customer_141,Telangana,Female,Master,Single,429064,96194.78,123,16,2023-02-21
+142,Customer_142,Telangana,Male,Bachelor,Single,410130,67862.19,242,7,2024-11-28
+143,Customer_143,Karnataka,Male,Bachelor,Married,1569215,140904.49,244,31,2024-10-28
+144,Customer_144,Karnataka,Female,Master,Married,1554546,18282.76,46,42,2024-08-10
+145,Customer_145,Karnataka,Male,Bachelor,Married,1956584,34610.42,19,26,2025-03-17
+146,Customer_146,Andhra Pradesh,Male,Master,Single,219434,51774.91,55,22,2023-10-19
+147,Customer_147,Andhra Pradesh,Female,Bachelor,Divorced,1181510,48197.19,58,22,2023-06-16
+148,Customer_148,Andhra Pradesh,Female,Bachelor,Single,1744799,57195.71,152,37,2024-11-21
+149,Customer_149,Karnataka,Male,Doctorate,Married,1280621,55909.73,206,43,2023-04-08
+150,Customer_150,Karnataka,Male,Doctorate,Married,720192,10956.22,197,16,2024-04-02
+151,Customer_151,Kerala,Female,Master,Divorced,1715994,90202.83,134,42,2024-01-04
+152,Customer_152,Karnataka,Male,High School,Married,843419,32360.36,258,46,2025-02-27
+153,Customer_153,Kerala,Male,Master,Married,1488962,40918.89,69,31,2023-06-06
+154,Customer_154,Andhra Pradesh,Female,Doctorate,Divorced,1351828,137791.56,276,43,2025-04-25
+155,Customer_155,Karnataka,Male,High School,Divorced,1136898,83944.24,186,5,2025-07-28
+156,Customer_156,Telangana,Male,High School,Divorced,1260083,38301.95,275,10,2023-06-18
+157,Customer_157,Kerala,Female,High School,Divorced,630758,110368.52,251,6,2025-07-09
+158,Customer_158,Telangana,Female,High School,Married,476707,81854.7,234,37,2023-03-01
+159,Customer_159,Telangana,Female,Master,Divorced,245655,65432.82,2,48,2023-08-12
+160,Customer_160,Telangana,Male,High School,Married,922529,108053.88,278,4,2025-08-15
+161,Customer_161,Tamil Nadu,Female,High School,Married,1057456,35197.39,70,50,2024-10-18
+162,Customer_162,Andhra Pradesh,Female,Doctorate,Married,991667,62590.37,277,9,2024-10-31
+163,Customer_163,Kerala,Male,Bachelor,Divorced,1024303,84037.96,115,1,2025-02-13
+164,Customer_164,Tamil Nadu,Female,Doctorate,Divorced,1708049,86222.35,273,25,2025-04-23
+165,Customer_165,Karnataka,Male,Doctorate,Married,525313,48590.96,58,3,2025-04-08
+166,Customer_166,Andhra Pradesh,Male,Bachelor,Single,341119,24125.54,18,29,2024-09-04
+167,Customer_167,Tamil Nadu,Male,High School,Married,1120571,42807.5,112,49,2025-06-03
+168,Customer_168,Tamil Nadu,Male,Master,Single,1910827,138295.58,295,21,2024-08-14
+169,Customer_169,Telangana,Female,Bachelor,Married,500438,147997.38,267,15,2024-02-28
+170,Customer_170,Kerala,Female,High School,Divorced,1440815,133159.94,90,41,2024-11-26
+171,Customer_171,Andhra Pradesh,Female,High School,Married,1549131,103987.95,269,21,2024-12-14
+172,Customer_172,Andhra Pradesh,Female,Bachelor,Married,989494,35743.06,276,31,2023-09-04
+173,Customer_173,Karnataka,Female,Bachelor,Married,320846,88734.03,214,36,2024-06-26
+174,Customer_174,Karnataka,Female,Bachelor,Married,626428,56236.82,41,29,2025-05-17
+175,Customer_175,Kerala,Male,Bachelor,Single,763004,62803.52,21,5,2023-07-12
+176,Customer_176,Telangana,Male,Doctorate,Single,898276,52446.32,8,14,2025-08-17
+177,Customer_177,Karnataka,Male,Doctorate,Single,1658834,94616.21,105,26,2025-07-26
+178,Customer_178,Karnataka,Female,Master,Married,1177798,84711.02,184,20,2023-09-25
+179,Customer_179,Kerala,Female,Doctorate,Single,1883628,147384.58,241,49,2025-05-09
+180,Customer_180,Kerala,Male,Master,Married,1068074,16400.16,114,48,2023-05-30
+181,Customer_181,Tamil Nadu,Female,Doctorate,Married,519629,37466.85,118,25,2024-08-06
+182,Customer_182,Karnataka,Female,Master,Married,1800883,125022.87,252,30,2023-06-22
+183,Customer_183,Kerala,Male,Bachelor,Divorced,1346190,78364.28,278,42,2025-09-07
+184,Customer_184,Tamil Nadu,Male,High School,Divorced,301742,117007.44,212,9,2025-05-12
+185,Customer_185,Karnataka,Male,Bachelor,Single,658688,80802.61,192,4,2024-09-24
+186,Customer_186,Telangana,Female,Doctorate,Single,213867,84509.75,211,1,2023-01-18
+187,Customer_187,Telangana,Female,Master,Single,1253223,123842.01,221,12,2023-04-20
+188,Customer_188,Tamil Nadu,Male,Bachelor,Single,1499774,83703.84,182,18,2025-03-25
+189,Customer_189,Andhra Pradesh,Male,Master,Married,1162588,89100.31,116,20,2024-12-01
+190,Customer_190,Tamil Nadu,Male,High School,Married,995374,62803.74,244,4,2024-10-14
+191,Customer_191,Tamil Nadu,Male,High School,Married,1972785,70747.35,170,37,2025-09-27
+192,Customer_192,Tamil Nadu,Male,Bachelor,Single,1651832,134257.6,244,18,2023-02-17
+193,Customer_193,Tamil Nadu,Female,High School,Single,1983475,54027.86,107,38,2023-05-28
+194,Customer_194,Andhra Pradesh,Male,Master,Single,1382706,43666.11,200,44,2025-07-07
+195,Customer_195,Telangana,Female,Doctorate,Divorced,493497,120669.73,41,33,2025-02-02
+196,Customer_196,Kerala,Male,High School,Married,686841,127414.45,175,39,2025-02-26
+197,Customer_197,Telangana,Female,Master,Single,1529852,48265.78,231,32,2023-08-22
+198,Customer_198,Kerala,Female,Doctorate,Single,1625423,92022.52,195,6,2025-03-01
+199,Customer_199,Telangana,Female,Bachelor,Divorced,354154,21485.32,79,25,2024-12-29
+200,Customer_200,Karnataka,Female,Master,Married,423453,22812.86,158,29,2024-01-04
+201,Customer_201,Kerala,Male,Bachelor,Single,592989,70337.13,286,36,2024-06-08
+202,Customer_202,Andhra Pradesh,Male,High School,Single,942212,87590.77,167,25,2023-01-13
+203,Customer_203,Kerala,Female,Doctorate,Single,1720107,136159.05,125,37,2024-06-17
+204,Customer_204,Karnataka,Female,Bachelor,Single,763963,52158.38,253,10,2023-03-06
+205,Customer_205,Karnataka,Female,Master,Married,828626,77792.38,40,24,2023-09-15
+206,Customer_206,Karnataka,Female,Bachelor,Married,424337,28968.53,4,26,2023-12-07
+207,Customer_207,Telangana,Female,Master,Married,901992,70286.27,70,20,2023-11-25
+208,Customer_208,Telangana,Male,Doctorate,Married,572532,145040.45,164,19,2025-01-22
+209,Customer_209,Andhra Pradesh,Male,Master,Married,787832,124309.23,202,24,2023-04-27
+210,Customer_210,Telangana,Male,Bachelor,Divorced,1809811,87013.88,237,46,2023-08-03
+211,Customer_211,Andhra Pradesh,Female,High School,Married,1611336,79902.45,156,16,2023-09-16
+212,Customer_212,Karnataka,Female,Doctorate,Single,1141761,148698.09,246,38,2024-02-15
+213,Customer_213,Telangana,Female,High School,Married,1671433,135370.21,275,39,2024-10-15
+214,Customer_214,Tamil Nadu,Male,Bachelor,Divorced,1593964,59701.23,23,37,2024-10-22
+215,Customer_215,Andhra Pradesh,Female,Doctorate,Single,222120,23804.92,114,33,2025-02-03
+216,Customer_216,Telangana,Male,Doctorate,Married,1020267,74828.85,257,10,2023-12-20
+217,Customer_217,Tamil Nadu,Female,High School,Married,1072363,138876.66,44,8,2025-05-01
+218,Customer_218,Karnataka,Female,Master,Married,1154901,119797.8,267,31,2023-12-23
+219,Customer_219,Andhra Pradesh,Male,Doctorate,Divorced,1661218,73342.61,35,20,2023-02-15
+220,Customer_220,Tamil Nadu,Male,Master,Divorced,429350,104799.51,85,48,2023-09-07
+221,Customer_221,Telangana,Male,Bachelor,Married,1374088,69691.71,237,15,2025-03-27
+222,Customer_222,Andhra Pradesh,Male,Bachelor,Divorced,1578474,70498.82,15,48,2024-09-20
+223,Customer_223,Karnataka,Female,Doctorate,Married,209332,108662.99,106,18,2025-02-09
+224,Customer_224,Tamil Nadu,Male,Bachelor,Married,883639,37590.4,59,17,2024-11-17
+225,Customer_225,Andhra Pradesh,Female,Doctorate,Divorced,1023224,92180.66,179,23,2025-05-15
+226,Customer_226,Andhra Pradesh,Male,Master,Divorced,1437672,21865.28,69,21,2023-05-01
+227,Customer_227,Karnataka,Female,High School,Single,982879,107081.12,262,25,2024-03-04
+228,Customer_228,Telangana,Male,Doctorate,Married,589553,78133.83,276,45,2025-07-30
+229,Customer_229,Karnataka,Male,Doctorate,Married,494223,36193.8,231,40,2023-02-24
+230,Customer_230,Kerala,Male,Doctorate,Single,609214,124130.23,288,33,2024-10-30
+231,Customer_231,Andhra Pradesh,Female,Doctorate,Married,1689276,127584.85,251,11,2023-03-26
+232,Customer_232,Telangana,Male,Bachelor,Married,268566,48479.41,276,19,2023-06-22
+233,Customer_233,Andhra Pradesh,Female,High School,Divorced,439508,47504.45,279,24,2024-07-09
+234,Customer_234,Tamil Nadu,Female,Bachelor,Married,414782,113038.42,127,20,2025-06-14
+235,Customer_235,Tamil Nadu,Female,Master,Married,1912803,22177.62,61,50,2025-04-11
+236,Customer_236,Karnataka,Male,Master,Divorced,1479811,98587.89,85,40,2023-05-23
+237,Customer_237,Karnataka,Male,High School,Divorced,935713,84519.31,276,11,2023-11-28
+238,Customer_238,Kerala,Female,Master,Divorced,1624593,124125.33,70,49,2025-03-15
+239,Customer_239,Andhra Pradesh,Male,Master,Divorced,466103,108199.71,68,16,2023-05-30
+240,Customer_240,Kerala,Male,Doctorate,Married,498155,90839.57,138,41,2024-02-29
+241,Customer_241,Andhra Pradesh,Female,High School,Divorced,1866394,133217.51,48,26,2024-06-11
+242,Customer_242,Kerala,Female,Doctorate,Married,886375,91473.78,48,47,2025-09-22
+243,Customer_243,Andhra Pradesh,Female,High School,Divorced,1034070,40496.19,220,14,2024-05-21
+244,Customer_244,Kerala,Female,Master,Married,1347793,90910.71,290,32,2025-03-18
+245,Customer_245,Kerala,Male,High School,Single,1513193,119744.57,236,2,2023-05-08
+246,Customer_246,Karnataka,Female,Doctorate,Single,1097160,38324.55,68,42,2023-11-06
+247,Customer_247,Karnataka,Female,High School,Divorced,955887,45054.5,191,43,2025-07-14
+248,Customer_248,Karnataka,Male,Doctorate,Divorced,840699,111638.37,120,28,2024-11-02
+249,Customer_249,Tamil Nadu,Male,High School,Single,1199936,20911.42,116,34,2024-11-27
+250,Customer_250,Andhra Pradesh,Male,High School,Divorced,920527,124395.26,217,45,2023-05-16
+251,Customer_251,Andhra Pradesh,Male,Bachelor,Married,387340,112306.87,53,7,2023-11-17
+252,Customer_252,Kerala,Female,Bachelor,Married,1822064,123871.51,69,42,2024-11-24
+253,Customer_253,Karnataka,Male,High School,Divorced,1563191,32976.32,180,47,2023-08-07
+254,Customer_254,Karnataka,Female,Doctorate,Single,381797,135523.01,72,49,2023-05-07
+255,Customer_255,Telangana,Female,Master,Married,859561,120750.73,127,18,2024-10-22
+256,Customer_256,Tamil Nadu,Male,Master,Divorced,256254,128704.89,155,14,2024-06-14
+257,Customer_257,Telangana,Male,Doctorate,Married,1555116,17639.68,123,32,2024-01-31
+258,Customer_258,Tamil Nadu,Male,Doctorate,Divorced,1445561,19941.68,7,24,2025-08-14
+259,Customer_259,Kerala,Male,Doctorate,Divorced,1082614,61157.74,89,49,2024-04-27
+260,Customer_260,Tamil Nadu,Male,High School,Single,749842,40204.01,31,26,2024-06-02
+261,Customer_261,Kerala,Female,Doctorate,Divorced,1043636,21539.89,275,35,2024-09-22
+262,Customer_262,Karnataka,Female,High School,Married,365720,81582.66,105,10,2024-07-03
+263,Customer_263,Kerala,Female,High School,Married,1665229,71248.05,123,4,2023-09-08
+264,Customer_264,Tamil Nadu,Female,High School,Married,1484079,95236.54,159,43,2025-01-29
+265,Customer_265,Karnataka,Male,High School,Divorced,487753,108209.95,84,32,2025-09-02
+266,Customer_266,Kerala,Female,Bachelor,Married,466192,114968.69,138,47,2025-06-26
+267,Customer_267,Tamil Nadu,Male,Master,Married,770384,83339.59,135,46,2025-09-25
+268,Customer_268,Telangana,Male,Doctorate,Married,1271187,60417.35,256,37,2023-06-20
+269,Customer_269,Kerala,Male,Master,Single,1403581,104376.86,60,15,2025-01-28
+270,Customer_270,Telangana,Male,High School,Single,712861,16437.41,187,25,2025-07-31
+271,Customer_271,Karnataka,Male,High School,Divorced,1884255,137952.67,215,15,2023-11-26
+272,Customer_272,Karnataka,Female,Master,Married,1932241,20904.19,191,8,2024-05-29
+273,Customer_273,Tamil Nadu,Male,Bachelor,Divorced,296319,143571.12,36,30,2025-06-05
+274,Customer_274,Kerala,Female,Master,Single,1359916,73944.46,189,13,2023-10-26
+275,Customer_275,Telangana,Female,Bachelor,Married,972325,92836.73,253,50,2025-03-05
+276,Customer_276,Karnataka,Male,Bachelor,Single,1059908,13347.44,278,23,2024-10-13
+277,Customer_277,Tamil Nadu,Female,High School,Divorced,989105,128860.84,158,7,2023-07-30
+278,Customer_278,Telangana,Male,Doctorate,Married,325609,146158.29,73,46,2023-10-14
+279,Customer_279,Tamil Nadu,Male,Bachelor,Divorced,1066242,108118.57,191,30,2025-09-24
+280,Customer_280,Tamil Nadu,Male,Bachelor,Divorced,1919586,65209.18,291,4,2024-03-21
+281,Customer_281,Karnataka,Male,Master,Married,1984495,54101.25,202,45,2025-05-01
+282,Customer_282,Kerala,Female,Doctorate,Married,689918,20456.24,104,9,2025-03-09
+283,Customer_283,Telangana,Male,Bachelor,Single,544719,72939.34,161,27,2023-05-04
+284,Customer_284,Telangana,Female,Bachelor,Married,846568,74868.52,62,6,2023-06-11
+285,Customer_285,Kerala,Male,Bachelor,Married,511057,22769.81,128,23,2024-02-10
+286,Customer_286,Telangana,Male,Master,Married,1919852,148694.73,16,26,2025-05-25
+287,Customer_287,Andhra Pradesh,Male,High School,Married,413715,122545.55,72,8,2023-01-13
+288,Customer_288,Tamil Nadu,Male,Bachelor,Single,1927368,66081.45,44,38,2024-08-23
+289,Customer_289,Kerala,Male,High School,Single,614712,136349.45,228,9,2023-04-05
+290,Customer_290,Kerala,Male,High School,Married,306194,33518.49,294,28,2025-04-21
+291,Customer_291,Andhra Pradesh,Female,High School,Married,1632801,69732.96,182,14,2025-07-19
+292,Customer_292,Karnataka,Female,Master,Married,511702,14850.92,126,42,2023-10-30
+293,Customer_293,Andhra Pradesh,Female,Doctorate,Single,383965,49168.64,71,27,2023-07-24
+294,Customer_294,Telangana,Male,High School,Married,1839796,109871.89,246,35,2025-03-11
+295,Customer_295,Andhra Pradesh,Female,Master,Married,767144,35174.22,164,39,2023-08-13
+296,Customer_296,Tamil Nadu,Female,High School,Married,1310299,60040.6,300,15,2025-09-24
+297,Customer_297,Karnataka,Male,Bachelor,Divorced,705734,47313.78,29,49,2025-08-28
+298,Customer_298,Karnataka,Female,Master,Single,569309,43117.16,163,48,2024-12-15
+299,Customer_299,Kerala,Male,Master,Divorced,1381968,29894.32,97,32,2024-07-09
+300,Customer_300,Kerala,Male,Doctorate,Single,389283,17863.52,113,2,2024-06-23
+301,Customer_301,Andhra Pradesh,Male,Master,Divorced,622501,122902.36,175,46,2023-07-01
+302,Customer_302,Kerala,Male,High School,Single,1430208,108657.49,73,50,2023-04-24
+303,Customer_303,Telangana,Female,High School,Married,1677523,141869.25,203,38,2023-04-14
+304,Customer_304,Kerala,Female,Master,Single,530309,112529.28,224,41,2025-09-10
+305,Customer_305,Andhra Pradesh,Female,Bachelor,Divorced,1378551,107098.46,183,15,2024-11-12
+306,Customer_306,Telangana,Male,Doctorate,Married,1739299,106389.78,66,12,2025-01-16
+307,Customer_307,Tamil Nadu,Female,High School,Single,1463300,54550.37,114,41,2024-08-02
+308,Customer_308,Tamil Nadu,Female,Bachelor,Married,1763098,20892.93,178,21,2023-06-21
+309,Customer_309,Tamil Nadu,Female,Doctorate,Single,756190,39355.8,35,23,2023-09-20
+310,Customer_310,Tamil Nadu,Male,High School,Married,1119014,112561.83,86,27,2024-05-19
+311,Customer_311,Andhra Pradesh,Female,Doctorate,Single,1938134,77128.5,296,42,2025-02-15
+312,Customer_312,Karnataka,Male,Doctorate,Single,1876032,128406.75,151,2,2023-11-23
+313,Customer_313,Kerala,Male,High School,Married,556736,134310.38,83,47,2023-03-18
+314,Customer_314,Telangana,Male,Master,Divorced,1486906,135051.66,16,28,2025-08-23
+315,Customer_315,Karnataka,Female,Bachelor,Single,412353,56353.24,98,27,2024-12-14
+316,Customer_316,Telangana,Female,Master,Married,698174,23428.23,202,37,2024-07-16
+317,Customer_317,Andhra Pradesh,Male,High School,Married,208001,69864.83,151,43,2024-10-02
+318,Customer_318,Telangana,Female,Bachelor,Single,253971,38973.42,150,6,2024-04-29
+319,Customer_319,Tamil Nadu,Female,Doctorate,Married,1225710,135282.85,136,6,2024-10-19
+320,Customer_320,Telangana,Female,Bachelor,Married,999948,61716.23,229,3,2023-09-27
+321,Customer_321,Andhra Pradesh,Female,Master,Single,1955481,47598.68,32,10,2025-02-09
+322,Customer_322,Tamil Nadu,Male,Master,Divorced,1068192,145898.78,117,36,2023-03-04
+323,Customer_323,Andhra Pradesh,Female,Doctorate,Divorced,694177,76676.72,41,26,2025-07-13
+324,Customer_324,Tamil Nadu,Male,High School,Married,562553,142868.61,86,14,2025-04-07
+325,Customer_325,Karnataka,Male,High School,Married,364350,148359.19,223,13,2025-04-22
+326,Customer_326,Karnataka,Female,Master,Divorced,1893122,19381.67,199,36,2024-02-11
+327,Customer_327,Telangana,Female,Master,Divorced,1160825,138402.67,7,45,2024-09-30
+328,Customer_328,Telangana,Female,High School,Married,513822,30747.96,299,49,2025-09-14
+329,Customer_329,Tamil Nadu,Male,High School,Married,1323304,133219.01,211,17,2024-01-28
+330,Customer_330,Andhra Pradesh,Female,High School,Single,777585,66416.35,206,3,2024-02-10
+331,Customer_331,Kerala,Male,High School,Divorced,1196604,138916.9,191,2,2023-12-12
+332,Customer_332,Kerala,Female,Master,Married,1999848,107465.6,51,15,2023-05-18
+333,Customer_333,Kerala,Female,Master,Married,1728403,68348.18,46,13,2024-03-28
+334,Customer_334,Karnataka,Female,Doctorate,Divorced,984146,124942.43,264,11,2023-03-09
+335,Customer_335,Kerala,Female,Bachelor,Divorced,1392592,14052.74,99,13,2025-05-07
+336,Customer_336,Tamil Nadu,Male,High School,Married,306030,138524.35,102,18,2024-01-13
+337,Customer_337,Andhra Pradesh,Female,High School,Divorced,264095,43871.33,251,39,2024-04-01
+338,Customer_338,Karnataka,Female,Master,Married,542912,127271.53,133,48,2025-04-30
+339,Customer_339,Tamil Nadu,Female,High School,Married,304125,32807.04,293,50,2025-09-15
+340,Customer_340,Karnataka,Male,Bachelor,Divorced,633546,47671.7,210,33,2023-01-21
+341,Customer_341,Tamil Nadu,Female,Bachelor,Divorced,563228,94159.87,5,15,2023-09-16
+342,Customer_342,Telangana,Female,Master,Married,989526,129222.06,236,17,2023-08-12
+343,Customer_343,Andhra Pradesh,Female,Doctorate,Divorced,414564,11028.66,192,36,2024-10-24
+344,Customer_344,Telangana,Female,Master,Divorced,426711,77443.38,173,18,2024-10-17
+345,Customer_345,Kerala,Female,Master,Divorced,1691271,143306.29,153,13,2023-06-03
+346,Customer_346,Telangana,Male,High School,Divorced,1047455,102474.25,72,47,2023-01-27
+347,Customer_347,Andhra Pradesh,Female,Master,Married,1048505,64358.49,19,38,2024-12-26
+348,Customer_348,Telangana,Male,Master,Divorced,1696043,41130.85,274,41,2025-03-14
+349,Customer_349,Andhra Pradesh,Female,Master,Single,1962947,102066.06,286,12,2023-10-28
+350,Customer_350,Tamil Nadu,Female,Bachelor,Divorced,742432,111526.13,287,49,2025-07-23
+351,Customer_351,Karnataka,Female,High School,Single,945083,41265.91,158,27,2025-03-18
+352,Customer_352,Kerala,Female,Master,Divorced,816669,74926.49,61,31,2023-02-24
+353,Customer_353,Telangana,Male,Doctorate,Single,1249577,26774.23,196,34,2023-11-02
+354,Customer_354,Andhra Pradesh,Male,Bachelor,Single,620052,57973.78,292,30,2023-05-27
+355,Customer_355,Kerala,Male,High School,Married,897574,98344.59,91,21,2024-10-11
+356,Customer_356,Tamil Nadu,Male,Doctorate,Married,639106,116567.06,87,37,2025-02-21
+357,Customer_357,Karnataka,Female,High School,Single,1488657,70719.6,220,26,2024-03-15
+358,Customer_358,Andhra Pradesh,Female,High School,Single,1319423,37918.0,192,1,2025-07-02
+359,Customer_359,Kerala,Male,High School,Divorced,208648,97736.17,128,15,2024-12-11
+360,Customer_360,Kerala,Female,Bachelor,Single,1004363,80467.11,157,11,2023-03-08
+361,Customer_361,Tamil Nadu,Female,Master,Married,1726374,82840.38,269,22,2024-03-20
+362,Customer_362,Karnataka,Female,Doctorate,Married,1773106,36379.64,207,2,2023-08-22
+363,Customer_363,Karnataka,Male,Bachelor,Divorced,245955,92557.0,87,8,2024-01-11
+364,Customer_364,Tamil Nadu,Female,Master,Divorced,1506808,16802.17,25,43,2023-04-21
+365,Customer_365,Tamil Nadu,Male,High School,Married,1131794,63235.53,281,17,2024-04-30
+366,Customer_366,Karnataka,Male,High School,Married,1082631,102633.04,267,18,2024-09-29
+367,Customer_367,Telangana,Male,Doctorate,Single,1272871,110627.27,61,19,2023-04-27
+368,Customer_368,Tamil Nadu,Female,Bachelor,Divorced,618904,118914.25,268,13,2024-01-02
+369,Customer_369,Andhra Pradesh,Female,Bachelor,Single,1349530,79489.66,107,45,2025-08-13
+370,Customer_370,Andhra Pradesh,Female,Bachelor,Single,226737,104028.64,57,37,2024-11-16
+371,Customer_371,Andhra Pradesh,Male,High School,Divorced,357387,111298.91,52,17,2024-10-21
+372,Customer_372,Karnataka,Female,Master,Married,1173660,17011.23,90,3,2025-05-22
+373,Customer_373,Kerala,Female,Master,Married,1748831,26226.15,24,1,2025-05-22
+374,Customer_374,Karnataka,Male,Master,Married,1117953,143712.48,138,47,2023-04-06
+375,Customer_375,Kerala,Female,Bachelor,Single,1040491,66035.03,234,18,2025-05-05
+376,Customer_376,Andhra Pradesh,Female,Doctorate,Divorced,1871240,33349.02,68,45,2025-01-13
+377,Customer_377,Tamil Nadu,Male,High School,Married,1438893,77574.48,292,44,2024-03-24
+378,Customer_378,Karnataka,Female,Master,Divorced,260432,130760.61,67,31,2025-07-31
+379,Customer_379,Andhra Pradesh,Male,Doctorate,Married,296410,18867.05,161,1,2024-12-22
+380,Customer_380,Telangana,Male,Master,Divorced,1297026,106353.83,49,28,2024-11-08
+381,Customer_381,Karnataka,Female,Master,Divorced,1618294,99796.62,77,36,2025-07-02
+382,Customer_382,Telangana,Male,High School,Divorced,529100,80779.46,241,32,2025-06-09
+383,Customer_383,Karnataka,Male,Doctorate,Married,705186,56325.28,143,4,2024-06-03
+384,Customer_384,Karnataka,Female,Doctorate,Single,365319,74273.24,294,29,2023-04-01
+385,Customer_385,Andhra Pradesh,Female,Master,Single,1243067,114333.46,10,7,2024-02-18
+386,Customer_386,Andhra Pradesh,Male,High School,Single,1860489,94588.46,156,33,2024-07-29
+387,Customer_387,Karnataka,Female,Master,Married,1930802,17598.53,115,30,2023-12-06
+388,Customer_388,Telangana,Female,Master,Divorced,1149029,25963.27,114,1,2023-12-16
+389,Customer_389,Kerala,Female,Master,Divorced,422973,16408.94,85,32,2023-05-24
+390,Customer_390,Andhra Pradesh,Male,Master,Divorced,610877,36256.08,202,14,2024-04-13
+391,Customer_391,Karnataka,Female,High School,Married,297518,139727.71,64,50,2025-07-02
+392,Customer_392,Andhra Pradesh,Female,Bachelor,Married,209096,84251.01,25,36,2025-08-15
+393,Customer_393,Andhra Pradesh,Female,Bachelor,Divorced,1413316,34311.04,66,7,2024-02-01
+394,Customer_394,Telangana,Female,Doctorate,Married,1477152,138227.43,128,18,2024-02-12
+395,Customer_395,Kerala,Female,Doctorate,Single,489784,67784.37,263,20,2025-05-13
+396,Customer_396,Telangana,Female,Bachelor,Single,639799,97383.46,149,44,2023-12-20
+397,Customer_397,Karnataka,Male,Master,Divorced,442022,116508.5,288,31,2024-08-19
+398,Customer_398,Telangana,Female,Master,Married,1895137,11787.87,55,2,2024-01-26
+399,Customer_399,Karnataka,Male,High School,Single,759894,115025.9,83,19,2024-11-30
+400,Customer_400,Kerala,Male,High School,Divorced,1844916,51319.68,278,3,2024-01-03
+401,Customer_401,Andhra Pradesh,Male,Bachelor,Divorced,1557107,88577.88,122,33,2025-03-14
+402,Customer_402,Kerala,Male,Doctorate,Married,1073602,143938.28,161,36,2023-02-25
+403,Customer_403,Tamil Nadu,Female,Bachelor,Divorced,1837718,130462.26,227,15,2025-07-22
+404,Customer_404,Kerala,Male,Bachelor,Married,1141233,34839.63,39,12,2025-09-12
+405,Customer_405,Karnataka,Male,Doctorate,Single,1098646,49075.71,136,9,2023-06-14
+406,Customer_406,Telangana,Female,High School,Married,1177967,109356.5,80,3,2023-06-07
+407,Customer_407,Kerala,Male,Master,Married,1856557,90174.78,184,5,2025-03-13
+408,Customer_408,Kerala,Male,Bachelor,Divorced,342976,120076.15,82,27,2024-07-10
+409,Customer_409,Telangana,Female,High School,Married,663885,133675.54,170,22,2024-01-05
+410,Customer_410,Kerala,Male,Doctorate,Divorced,1927399,115298.73,5,8,2024-11-15
+411,Customer_411,Kerala,Female,Bachelor,Divorced,1487024,138605.02,125,3,2024-11-29
+412,Customer_412,Kerala,Female,High School,Married,738109,85633.22,145,2,2025-07-22
+413,Customer_413,Telangana,Female,Doctorate,Married,291963,51500.76,99,21,2024-06-10
+414,Customer_414,Tamil Nadu,Male,Bachelor,Divorced,1318213,11026.28,34,14,2024-11-17
+415,Customer_415,Karnataka,Female,High School,Single,1327752,126024.81,223,42,2025-04-16
+416,Customer_416,Tamil Nadu,Male,High School,Married,1703381,56440.15,45,5,2023-02-25
+417,Customer_417,Karnataka,Female,High School,Divorced,1923060,41870.39,133,27,2024-02-02
+418,Customer_418,Andhra Pradesh,Female,Doctorate,Married,235422,64530.26,61,35,2023-01-07
+419,Customer_419,Telangana,Male,High School,Divorced,1978911,20162.52,258,7,2023-10-24
+420,Customer_420,Kerala,Male,Master,Married,999882,65315.86,16,31,2023-06-10
+421,Customer_421,Telangana,Male,Bachelor,Divorced,1019970,121547.86,280,19,2025-09-10
+422,Customer_422,Karnataka,Female,Master,Single,1360824,132467.37,73,8,2023-02-12
+423,Customer_423,Tamil Nadu,Female,High School,Married,640512,114761.52,177,14,2024-02-27
+424,Customer_424,Telangana,Male,Bachelor,Single,663025,96363.89,130,13,2023-04-28
+425,Customer_425,Karnataka,Male,Doctorate,Divorced,1352730,20240.24,35,17,2023-04-11
+426,Customer_426,Karnataka,Female,Master,Married,468886,103981.38,121,7,2023-10-19
+427,Customer_427,Telangana,Male,Bachelor,Married,1218924,73090.44,157,45,2024-08-21
+428,Customer_428,Karnataka,Female,Master,Married,553662,10676.46,127,15,2024-12-30
+429,Customer_429,Andhra Pradesh,Female,Master,Single,1625182,112616.19,246,30,2024-04-01
+430,Customer_430,Kerala,Female,Doctorate,Divorced,428238,34607.82,42,18,2025-05-29
+431,Customer_431,Karnataka,Male,Master,Divorced,1514115,20704.73,39,2,2025-05-19
+432,Customer_432,Telangana,Male,Doctorate,Divorced,646191,136882.5,283,17,2024-07-10
+433,Customer_433,Telangana,Female,Bachelor,Married,1023128,41262.93,149,9,2024-04-20
+434,Customer_434,Telangana,Male,Doctorate,Married,1253121,11482.84,123,40,2024-12-01
+435,Customer_435,Karnataka,Male,Doctorate,Single,575694,89290.02,290,43,2025-06-12
+436,Customer_436,Karnataka,Female,Master,Single,658896,116606.13,119,5,2023-09-28
+437,Customer_437,Kerala,Male,High School,Divorced,633636,82503.93,185,25,2024-04-25
+438,Customer_438,Andhra Pradesh,Male,High School,Divorced,879626,24451.5,267,41,2025-04-29
+439,Customer_439,Kerala,Female,Bachelor,Married,1570856,62992.59,40,34,2023-09-15
+440,Customer_440,Andhra Pradesh,Male,Doctorate,Married,1913869,131480.72,250,31,2025-06-27
+441,Customer_441,Telangana,Male,Bachelor,Married,547300,42198.71,264,42,2023-10-15
+442,Customer_442,Karnataka,Male,Bachelor,Single,959636,94282.84,61,43,2023-08-24
+443,Customer_443,Andhra Pradesh,Female,High School,Married,1616058,77034.05,108,38,2023-06-15
+444,Customer_444,Andhra Pradesh,Male,Bachelor,Single,468194,90288.11,83,9,2024-10-06
+445,Customer_445,Telangana,Male,Bachelor,Single,548843,46156.35,93,34,2025-09-08
+446,Customer_446,Andhra Pradesh,Male,Master,Single,654229,72888.47,242,31,2023-06-24
+447,Customer_447,Karnataka,Female,Bachelor,Divorced,1920615,117448.62,262,17,2023-06-21
+448,Customer_448,Kerala,Female,High School,Single,993166,63964.66,56,2,2023-07-27
+449,Customer_449,Telangana,Female,Bachelor,Divorced,401952,34839.11,20,35,2024-05-30
+450,Customer_450,Tamil Nadu,Male,Doctorate,Divorced,473319,136277.87,277,1,2025-07-07
+451,Customer_451,Andhra Pradesh,Female,Master,Single,1663063,84174.31,118,31,2025-03-19
+452,Customer_452,Andhra Pradesh,Female,High School,Married,480773,45632.52,120,6,2023-10-18
+453,Customer_453,Telangana,Female,Master,Single,211470,109280.84,4,37,2024-06-19
+454,Customer_454,Tamil Nadu,Male,Doctorate,Divorced,630794,106287.34,162,27,2024-01-06
+455,Customer_455,Tamil Nadu,Male,Doctorate,Divorced,1427610,45508.58,275,28,2024-08-01
+456,Customer_456,Kerala,Female,Doctorate,Single,1066602,87294.69,286,31,2023-07-03
+457,Customer_457,Kerala,Female,Master,Married,1411422,58209.88,204,48,2023-05-22
+458,Customer_458,Tamil Nadu,Male,Doctorate,Divorced,539308,24039.01,261,26,2025-03-15
+459,Customer_459,Kerala,Male,Bachelor,Married,1533529,10740.69,47,10,2024-04-27
+460,Customer_460,Telangana,Female,High School,Single,751743,41047.83,41,39,2023-02-08
+461,Customer_461,Andhra Pradesh,Female,Master,Divorced,1452990,18044.82,90,41,2024-05-21
+462,Customer_462,Andhra Pradesh,Male,Bachelor,Divorced,1885921,82541.46,100,3,2025-03-13
+463,Customer_463,Telangana,Male,Bachelor,Divorced,275625,60363.6,1,11,2023-03-30
+464,Customer_464,Kerala,Female,Master,Divorced,1028675,66763.14,103,34,2023-01-16
+465,Customer_465,Tamil Nadu,Male,Master,Divorced,1940142,88275.94,299,23,2023-12-22
+466,Customer_466,Kerala,Male,Bachelor,Married,1047158,90486.94,134,12,2024-02-21
+467,Customer_467,Telangana,Male,High School,Divorced,817090,57595.23,60,33,2025-09-06
+468,Customer_468,Kerala,Female,Doctorate,Married,1381050,77708.19,125,49,2023-12-14
+469,Customer_469,Andhra Pradesh,Female,High School,Married,443832,46094.77,196,41,2025-03-18
+470,Customer_470,Karnataka,Male,Master,Married,940496,82310.59,5,45,2025-05-02
+471,Customer_471,Kerala,Male,Master,Single,1036618,104317.71,176,5,2024-07-21
+472,Customer_472,Karnataka,Female,Master,Married,658366,135204.28,138,12,2025-08-27
+473,Customer_473,Karnataka,Female,Bachelor,Single,1742306,43887.91,136,14,2023-08-23
+474,Customer_474,Karnataka,Male,Master,Single,1833552,24936.5,41,44,2025-09-05
+475,Customer_475,Andhra Pradesh,Male,High School,Married,978455,96893.45,253,37,2025-06-08
+476,Customer_476,Kerala,Female,Bachelor,Divorced,787761,65703.13,296,9,2023-02-25
+477,Customer_477,Telangana,Female,Doctorate,Divorced,268288,80346.53,202,44,2025-03-05
+478,Customer_478,Karnataka,Female,High School,Divorced,1286754,74409.88,5,1,2024-11-21
+479,Customer_479,Karnataka,Female,High School,Married,958335,95788.93,133,12,2024-07-15
+480,Customer_480,Kerala,Male,Master,Married,1485730,58033.5,95,32,2024-03-10
+481,Customer_481,Karnataka,Female,Master,Married,1991651,66082.96,231,12,2024-08-08
+482,Customer_482,Karnataka,Male,High School,Divorced,766124,122572.26,285,28,2025-05-26
+483,Customer_483,Andhra Pradesh,Male,Bachelor,Divorced,513625,76218.18,5,12,2024-03-07
+484,Customer_484,Andhra Pradesh,Male,Master,Married,829217,45136.36,291,4,2024-02-12
+485,Customer_485,Tamil Nadu,Male,High School,Single,1906700,45600.56,50,29,2025-02-01
+486,Customer_486,Kerala,Female,Master,Married,1375139,88048.81,132,23,2023-01-21
+487,Customer_487,Andhra Pradesh,Male,Master,Divorced,1469984,37854.14,295,42,2024-10-26
+488,Customer_488,Telangana,Male,Master,Married,881763,104247.0,250,50,2025-01-24
+489,Customer_489,Andhra Pradesh,Male,Doctorate,Divorced,800883,74925.29,75,11,2024-10-17
+490,Customer_490,Kerala,Female,Doctorate,Single,365909,32679.93,117,21,2023-11-21
+491,Customer_491,Kerala,Female,Doctorate,Married,1133019,119336.37,186,48,2024-08-24
+492,Customer_492,Telangana,Female,Doctorate,Single,585637,129589.66,65,47,2023-08-29
+493,Customer_493,Kerala,Male,Bachelor,Single,1032664,24421.3,33,31,2024-07-15
+494,Customer_494,Tamil Nadu,Male,Doctorate,Divorced,1804313,149441.92,54,17,2024-09-24
+495,Customer_495,Karnataka,Male,Doctorate,Married,680994,44635.51,146,29,2024-10-03
+496,Customer_496,Karnataka,Male,Bachelor,Single,273725,102896.88,167,31,2024-04-23
+497,Customer_497,Telangana,Female,Doctorate,Single,1663021,85500.26,234,41,2025-02-05
+498,Customer_498,Telangana,Female,Master,Married,1210096,85553.54,46,29,2023-11-12
+499,Customer_499,Kerala,Female,Master,Single,836638,11477.81,268,49,2025-05-18
+500,Customer_500,Karnataka,Female,Master,Married,1322183,11164.4,252,49,2024-05-03
+501,Customer_501,Kerala,Male,Doctorate,Married,1452007,42370.16,4,36,2024-01-18
+502,Customer_502,Karnataka,Female,Doctorate,Married,724070,32857.73,200,25,2023-08-14
+503,Customer_503,Kerala,Male,Doctorate,Divorced,702397,82325.41,140,19,2024-10-26
+504,Customer_504,Telangana,Female,Doctorate,Single,1989881,19584.95,70,19,2023-04-24
+505,Customer_505,Andhra Pradesh,Female,Master,Divorced,1506009,78879.44,165,2,2023-06-05
+506,Customer_506,Tamil Nadu,Male,Bachelor,Single,791637,47687.32,225,47,2023-01-09
+507,Customer_507,Karnataka,Male,Bachelor,Single,1235111,40406.33,216,20,2025-03-15
+508,Customer_508,Andhra Pradesh,Female,Doctorate,Divorced,1859737,14443.2,42,49,2025-09-01
+509,Customer_509,Karnataka,Male,Master,Married,349704,86046.87,93,13,2025-07-06
+510,Customer_510,Kerala,Female,High School,Single,1810918,110055.55,198,50,2025-09-25
+511,Customer_511,Andhra Pradesh,Male,High School,Single,1166440,112945.19,49,34,2024-11-12
+512,Customer_512,Karnataka,Female,Doctorate,Divorced,854540,141070.13,82,41,2025-01-15
+513,Customer_513,Tamil Nadu,Male,Master,Married,1539073,51833.83,185,4,2025-06-03
+514,Customer_514,Karnataka,Male,Bachelor,Divorced,1110502,55431.89,86,18,2024-08-21
+515,Customer_515,Tamil Nadu,Female,Bachelor,Single,288066,91350.78,244,45,2024-09-02
+516,Customer_516,Karnataka,Female,High School,Single,530717,79988.69,174,49,2024-10-02
+517,Customer_517,Tamil Nadu,Male,Master,Divorced,522790,108185.94,55,9,2024-05-14
+518,Customer_518,Karnataka,Female,Master,Married,1737608,37015.14,194,23,2025-01-11
+519,Customer_519,Karnataka,Female,High School,Married,1681902,71250.0,151,35,2024-12-14
+520,Customer_520,Andhra Pradesh,Male,Bachelor,Divorced,929105,55315.32,240,18,2025-06-07
+521,Customer_521,Telangana,Male,High School,Divorced,525111,72913.79,135,35,2024-01-11
+522,Customer_522,Andhra Pradesh,Male,Doctorate,Divorced,589093,133610.53,187,50,2024-09-27
+523,Customer_523,Karnataka,Female,High School,Divorced,1330273,124666.96,98,34,2024-11-30
+524,Customer_524,Andhra Pradesh,Male,Master,Married,1059422,99726.55,57,7,2024-06-19
+525,Customer_525,Tamil Nadu,Male,Bachelor,Single,265585,38291.06,249,13,2023-04-12
+526,Customer_526,Tamil Nadu,Female,Doctorate,Divorced,1508560,108183.96,132,4,2024-01-11
+527,Customer_527,Karnataka,Male,High School,Single,1575206,78796.77,41,30,2025-03-31
+528,Customer_528,Tamil Nadu,Female,Doctorate,Married,1865662,109180.73,137,34,2023-02-11
+529,Customer_529,Tamil Nadu,Female,High School,Single,1289439,23596.7,119,35,2024-01-30
+530,Customer_530,Karnataka,Male,Bachelor,Divorced,1511401,142650.47,286,48,2024-07-25
+531,Customer_531,Andhra Pradesh,Male,Master,Divorced,1162006,108357.06,219,7,2023-06-20
+532,Customer_532,Karnataka,Female,Master,Divorced,531720,84746.07,227,23,2025-07-13
+533,Customer_533,Kerala,Female,Master,Married,1802610,98653.72,166,39,2023-09-04
+534,Customer_534,Telangana,Male,Doctorate,Divorced,1761493,45572.48,232,29,2025-09-09
+535,Customer_535,Andhra Pradesh,Male,High School,Married,1449405,12282.34,70,20,2023-01-07
+536,Customer_536,Kerala,Male,Bachelor,Married,245511,118013.23,142,36,2024-06-07
+537,Customer_537,Telangana,Male,High School,Single,1165465,59791.81,71,17,2024-01-11
+538,Customer_538,Telangana,Male,Bachelor,Married,1900945,52042.34,293,26,2024-08-05
+539,Customer_539,Karnataka,Male,Master,Married,562602,78358.7,296,7,2024-09-01
+540,Customer_540,Kerala,Male,Doctorate,Single,1836034,17829.18,172,23,2025-06-19
+541,Customer_541,Andhra Pradesh,Female,High School,Single,1767995,101389.09,6,41,2025-03-07
+542,Customer_542,Andhra Pradesh,Male,Master,Divorced,286365,54704.32,290,10,2023-12-01
+543,Customer_543,Telangana,Male,Bachelor,Single,1612715,112421.0,202,29,2025-02-09
+544,Customer_544,Telangana,Male,Bachelor,Married,807719,120091.56,76,9,2023-12-11
+545,Customer_545,Tamil Nadu,Female,High School,Divorced,1037164,46758.12,205,33,2024-03-20
+546,Customer_546,Karnataka,Male,Doctorate,Divorced,615463,78300.55,293,13,2024-07-28
+547,Customer_547,Telangana,Male,Bachelor,Single,758381,118748.07,166,44,2025-08-04
+548,Customer_548,Telangana,Male,High School,Divorced,1067344,69295.68,179,13,2023-11-25
+549,Customer_549,Kerala,Male,Master,Single,933408,96270.94,227,40,2023-05-30
+550,Customer_550,Andhra Pradesh,Male,Bachelor,Single,1637302,62334.91,44,8,2025-01-27
+551,Customer_551,Tamil Nadu,Male,Bachelor,Married,228800,58057.99,57,20,2024-04-05
+552,Customer_552,Andhra Pradesh,Male,Master,Single,1751919,85320.76,105,35,2024-06-19
+553,Customer_553,Kerala,Female,Bachelor,Divorced,1665395,103556.48,193,38,2025-07-16
+554,Customer_554,Telangana,Male,Master,Single,326059,49761.9,139,4,2024-04-21
+555,Customer_555,Tamil Nadu,Male,Doctorate,Divorced,768979,102817.43,185,7,2023-01-20
+556,Customer_556,Kerala,Female,Bachelor,Married,1266486,146725.67,51,21,2024-05-11
+557,Customer_557,Telangana,Male,Bachelor,Single,1249940,145350.79,288,46,2023-01-23
+558,Customer_558,Tamil Nadu,Male,Master,Married,1227463,65075.97,81,2,2023-12-22
+559,Customer_559,Kerala,Female,Master,Single,1251200,48622.96,32,41,2023-09-21
+560,Customer_560,Andhra Pradesh,Male,Master,Single,518155,57850.06,202,43,2023-05-21
+561,Customer_561,Tamil Nadu,Female,Bachelor,Married,704073,90205.8,219,20,2025-07-20
+562,Customer_562,Telangana,Female,Doctorate,Divorced,476346,38946.02,71,38,2024-07-08
+563,Customer_563,Karnataka,Male,Master,Divorced,1678778,135810.04,70,28,2025-07-19
+564,Customer_564,Karnataka,Male,Master,Single,1368827,84614.62,61,12,2023-11-22
+565,Customer_565,Karnataka,Male,Master,Married,1062457,52468.73,141,10,2025-03-08
+566,Customer_566,Karnataka,Male,Bachelor,Single,254941,116742.65,137,39,2024-08-03
+567,Customer_567,Telangana,Male,Bachelor,Single,1641535,13651.83,41,45,2025-03-09
+568,Customer_568,Andhra Pradesh,Male,Doctorate,Divorced,1562243,62354.32,199,32,2024-04-30
+569,Customer_569,Karnataka,Male,Bachelor,Single,267590,67202.48,8,18,2025-08-31
+570,Customer_570,Andhra Pradesh,Male,Bachelor,Single,338697,34790.95,225,40,2024-05-16
+571,Customer_571,Kerala,Female,Bachelor,Married,1049067,118670.06,195,47,2023-11-17
+572,Customer_572,Andhra Pradesh,Male,High School,Married,1158189,125781.41,22,16,2024-06-15
+573,Customer_573,Telangana,Female,High School,Divorced,1012432,82257.74,26,13,2023-10-26
+574,Customer_574,Andhra Pradesh,Female,Master,Married,1167515,33308.12,151,40,2025-07-30
+575,Customer_575,Tamil Nadu,Male,Doctorate,Divorced,1147279,22661.71,257,8,2023-07-04
+576,Customer_576,Telangana,Male,Doctorate,Married,878346,73124.02,92,30,2024-08-27
+577,Customer_577,Karnataka,Female,High School,Married,879634,106840.44,84,46,2025-01-20
+578,Customer_578,Tamil Nadu,Male,High School,Divorced,1142456,98770.14,44,34,2024-12-25
+579,Customer_579,Andhra Pradesh,Male,Doctorate,Divorced,998190,16146.85,88,22,2024-08-02
+580,Customer_580,Karnataka,Male,Bachelor,Single,1813038,109686.65,215,20,2023-11-13
+581,Customer_581,Andhra Pradesh,Female,Bachelor,Single,475924,144460.74,2,40,2025-02-22
+582,Customer_582,Kerala,Male,Doctorate,Married,1993927,79809.91,3,39,2025-06-22
+583,Customer_583,Andhra Pradesh,Male,Bachelor,Divorced,1583010,76599.68,210,29,2023-03-23
+584,Customer_584,Telangana,Male,Bachelor,Divorced,783245,96767.25,286,14,2023-02-20
+585,Customer_585,Karnataka,Male,High School,Divorced,931947,15140.95,17,43,2024-08-14
+586,Customer_586,Telangana,Female,Master,Single,302826,25244.27,92,11,2024-11-19
+587,Customer_587,Kerala,Male,Doctorate,Divorced,1414180,60426.41,19,6,2025-02-25
+588,Customer_588,Kerala,Female,Master,Married,1920219,19473.33,219,36,2023-03-08
+589,Customer_589,Kerala,Female,Bachelor,Single,1656722,130317.11,169,34,2024-02-28
+590,Customer_590,Telangana,Male,Bachelor,Divorced,322021,25302.31,271,6,2024-05-10
+591,Customer_591,Telangana,Female,Doctorate,Divorced,1977961,54308.4,270,37,2024-09-30
+592,Customer_592,Kerala,Male,Doctorate,Divorced,1729211,98460.07,253,12,2025-06-23
+593,Customer_593,Telangana,Male,Master,Single,203315,26549.0,239,41,2025-03-26
+594,Customer_594,Tamil Nadu,Male,Doctorate,Married,295404,56730.92,287,41,2023-08-06
+595,Customer_595,Tamil Nadu,Male,Master,Married,1857160,19497.05,154,33,2024-07-17
+596,Customer_596,Kerala,Male,High School,Divorced,898944,57790.62,292,40,2025-09-10
+597,Customer_597,Tamil Nadu,Male,Bachelor,Married,1948658,57311.16,246,31,2025-03-27
+598,Customer_598,Tamil Nadu,Male,Doctorate,Single,1515334,74486.51,275,22,2024-04-18
+599,Customer_599,Andhra Pradesh,Male,Master,Divorced,1720360,104947.67,285,35,2023-01-20
+600,Customer_600,Karnataka,Female,Master,Single,513115,49264.4,16,22,2024-01-20
+601,Customer_601,Telangana,Male,Doctorate,Single,1448207,26358.25,158,46,2025-05-28
+602,Customer_602,Kerala,Male,Master,Married,382028,79587.62,122,24,2024-04-07
+603,Customer_603,Kerala,Male,Master,Single,435366,62390.2,20,50,2023-07-26
+604,Customer_604,Tamil Nadu,Female,High School,Married,1248689,31570.89,175,31,2025-01-20
+605,Customer_605,Telangana,Female,Master,Single,1813719,132051.86,265,44,2023-05-16
+606,Customer_606,Karnataka,Male,Doctorate,Married,1696689,131073.43,60,1,2023-11-15
+607,Customer_607,Tamil Nadu,Male,Master,Married,296762,24434.4,160,2,2024-08-14
+608,Customer_608,Kerala,Male,Master,Single,603797,50119.43,273,21,2025-03-02
+609,Customer_609,Andhra Pradesh,Male,Master,Single,530293,48309.16,8,40,2024-07-27
+610,Customer_610,Telangana,Male,Bachelor,Divorced,934670,86911.19,139,10,2025-08-23
+611,Customer_611,Kerala,Male,Bachelor,Single,853006,95856.8,174,35,2024-03-30
+612,Customer_612,Tamil Nadu,Male,High School,Married,1616617,17063.84,197,4,2023-03-30
+613,Customer_613,Andhra Pradesh,Female,Bachelor,Divorced,1450157,134778.63,229,40,2023-12-31
+614,Customer_614,Kerala,Female,Bachelor,Divorced,1790485,103921.84,274,6,2025-09-24
+615,Customer_615,Andhra Pradesh,Male,High School,Divorced,1182045,23616.82,159,44,2024-10-21
+616,Customer_616,Andhra Pradesh,Female,Bachelor,Single,501406,130553.48,133,24,2024-02-06
+617,Customer_617,Karnataka,Female,Master,Married,1222375,14236.98,244,8,2023-12-26
+618,Customer_618,Andhra Pradesh,Female,Bachelor,Married,1810490,58806.16,295,9,2024-06-04
+619,Customer_619,Tamil Nadu,Female,High School,Married,1366330,100923.2,155,35,2024-04-17
+620,Customer_620,Andhra Pradesh,Female,Bachelor,Divorced,711057,86712.86,247,25,2023-03-09
+621,Customer_621,Kerala,Male,Doctorate,Married,1389528,120225.75,279,45,2023-08-30
+622,Customer_622,Karnataka,Male,Doctorate,Single,1441856,93450.57,167,36,2023-04-10
+623,Customer_623,Andhra Pradesh,Male,Master,Married,345977,93756.29,195,21,2024-05-21
+624,Customer_624,Tamil Nadu,Male,Bachelor,Single,1417958,136455.84,1,49,2023-05-31
+625,Customer_625,Karnataka,Female,Master,Married,1490948,90910.4,101,14,2024-11-28
+626,Customer_626,Kerala,Female,Master,Married,1705317,147561.24,177,6,2024-08-19
+627,Customer_627,Tamil Nadu,Female,Bachelor,Married,330884,61691.21,282,4,2023-01-01
+628,Customer_628,Telangana,Female,High School,Married,265399,42933.76,202,41,2023-11-22
+629,Customer_629,Andhra Pradesh,Female,Doctorate,Married,1343196,39570.25,89,31,2023-05-23
+630,Customer_630,Karnataka,Female,Master,Married,523521,50385.92,65,9,2023-01-12
+631,Customer_631,Tamil Nadu,Male,Bachelor,Divorced,1220686,102109.74,70,6,2023-05-21
+632,Customer_632,Andhra Pradesh,Female,Doctorate,Divorced,577062,73615.21,218,36,2025-04-19
+633,Customer_633,Andhra Pradesh,Female,Master,Single,589632,69468.06,4,37,2024-05-25
+634,Customer_634,Karnataka,Female,Doctorate,Divorced,1408698,61375.8,20,37,2024-05-09
+635,Customer_635,Kerala,Male,Doctorate,Divorced,367904,29892.25,270,49,2025-03-08
+636,Customer_636,Kerala,Female,High School,Divorced,1479410,22382.49,242,41,2025-01-29
+637,Customer_637,Tamil Nadu,Female,High School,Married,1322046,118993.8,241,30,2024-06-08
+638,Customer_638,Andhra Pradesh,Female,Doctorate,Married,1873995,51246.51,86,3,2024-12-12
+639,Customer_639,Telangana,Female,Master,Single,1519737,76242.47,87,37,2023-02-22
+640,Customer_640,Kerala,Male,Master,Married,373036,27754.99,40,18,2023-09-16
+641,Customer_641,Karnataka,Female,Master,Married,229785,113800.08,90,38,2025-01-26
+642,Customer_642,Karnataka,Female,Master,Single,747886,119553.88,121,32,2023-07-05
+643,Customer_643,Telangana,Male,Master,Single,504234,93376.17,79,32,2025-02-09
+644,Customer_644,Andhra Pradesh,Female,Bachelor,Divorced,1123134,111639.87,86,14,2024-08-14
+645,Customer_645,Kerala,Male,Master,Single,310149,33464.06,205,31,2023-11-05
+646,Customer_646,Andhra Pradesh,Male,Doctorate,Divorced,1679766,64609.87,135,10,2024-06-27
+647,Customer_647,Andhra Pradesh,Male,Master,Married,1001120,104989.08,272,44,2025-09-05
+648,Customer_648,Tamil Nadu,Male,Master,Married,1480281,138525.88,140,22,2023-10-04
+649,Customer_649,Kerala,Male,Master,Divorced,1425107,64761.53,124,47,2024-11-19
+650,Customer_650,Telangana,Male,Master,Divorced,1647618,149050.08,161,36,2023-01-11
+651,Customer_651,Tamil Nadu,Male,High School,Married,404889,83537.0,229,23,2023-08-13
+652,Customer_652,Kerala,Female,Bachelor,Single,249703,96715.61,30,39,2024-11-03
+653,Customer_653,Karnataka,Male,High School,Single,1996086,94656.01,193,43,2025-02-21
+654,Customer_654,Telangana,Male,High School,Divorced,586427,45467.0,240,43,2025-08-16
+655,Customer_655,Tamil Nadu,Female,Master,Married,1651693,136474.81,166,17,2023-06-15
+656,Customer_656,Tamil Nadu,Female,High School,Married,1014933,56571.66,31,17,2025-09-05
+657,Customer_657,Kerala,Male,Doctorate,Single,1231215,147119.08,103,40,2024-02-07
+658,Customer_658,Karnataka,Female,High School,Single,1333787,117619.03,112,40,2024-10-20
+659,Customer_659,Tamil Nadu,Female,Master,Single,273108,20208.73,293,47,2023-09-14
+660,Customer_660,Andhra Pradesh,Male,Doctorate,Single,1569157,99646.94,20,43,2024-02-04
+661,Customer_661,Kerala,Male,Master,Married,1405107,10518.53,252,31,2024-03-22
+662,Customer_662,Andhra Pradesh,Male,Bachelor,Single,1006195,143581.75,247,8,2024-08-03
+663,Customer_663,Telangana,Female,Master,Divorced,835076,66086.07,47,24,2024-07-01
+664,Customer_664,Kerala,Male,Doctorate,Married,1558519,38436.87,284,3,2025-09-17
+665,Customer_665,Andhra Pradesh,Male,Master,Divorced,1018108,135504.5,184,32,2023-03-28
+666,Customer_666,Andhra Pradesh,Male,Bachelor,Single,604944,13551.04,123,32,2024-02-03
+667,Customer_667,Tamil Nadu,Female,Doctorate,Divorced,1949549,123648.93,9,3,2023-12-14
+668,Customer_668,Tamil Nadu,Female,High School,Married,447856,39634.94,268,30,2025-08-20
+669,Customer_669,Telangana,Male,Bachelor,Single,277338,112964.36,251,42,2023-01-20
+670,Customer_670,Andhra Pradesh,Male,Bachelor,Divorced,1560603,28275.28,89,41,2023-02-21
+671,Customer_671,Kerala,Male,Doctorate,Divorced,557961,126949.3,33,7,2023-04-27
+672,Customer_672,Andhra Pradesh,Male,High School,Single,1093830,57228.04,206,21,2023-05-04
+673,Customer_673,Telangana,Male,Master,Single,1802702,16382.12,89,22,2023-03-06
+674,Customer_674,Tamil Nadu,Female,Bachelor,Married,552428,107481.41,284,11,2024-03-25
+675,Customer_675,Karnataka,Male,Bachelor,Single,1858956,128631.34,193,50,2023-06-11
+676,Customer_676,Tamil Nadu,Female,High School,Single,215149,35117.8,46,46,2024-10-29
+677,Customer_677,Telangana,Female,Doctorate,Divorced,1893265,120913.7,244,45,2023-05-10
+678,Customer_678,Karnataka,Male,Master,Divorced,1144597,67684.39,90,40,2024-12-09
+679,Customer_679,Tamil Nadu,Male,Doctorate,Divorced,384593,97806.83,155,23,2024-03-04
+680,Customer_680,Tamil Nadu,Male,Bachelor,Single,1311907,146750.81,186,49,2024-07-06
+681,Customer_681,Telangana,Male,Doctorate,Divorced,1582709,39135.22,28,13,2023-04-26
+682,Customer_682,Karnataka,Female,Doctorate,Single,535040,103819.97,23,4,2024-10-22
+683,Customer_683,Kerala,Female,Bachelor,Married,727185,56801.25,233,3,2023-04-17
+684,Customer_684,Tamil Nadu,Male,Bachelor,Single,1217247,82086.52,37,16,2025-01-08
+685,Customer_685,Andhra Pradesh,Female,Doctorate,Single,1766754,104759.36,167,15,2025-03-08
+686,Customer_686,Tamil Nadu,Female,Bachelor,Single,697273,113284.7,103,25,2025-07-01
+687,Customer_687,Karnataka,Male,Doctorate,Divorced,1215876,17607.51,224,10,2023-08-10
+688,Customer_688,Telangana,Female,Bachelor,Married,983254,29096.65,100,41,2024-01-03
+689,Customer_689,Kerala,Male,Master,Single,267307,106909.47,31,18,2023-05-20
+690,Customer_690,Tamil Nadu,Female,Doctorate,Married,559035,116447.54,113,19,2024-09-10
+691,Customer_691,Karnataka,Male,Bachelor,Single,1063389,129976.33,251,14,2024-08-28
+692,Customer_692,Andhra Pradesh,Female,Master,Single,1730958,69935.45,127,16,2023-12-02
+693,Customer_693,Andhra Pradesh,Male,Bachelor,Divorced,210648,68488.06,23,3,2024-04-26
+694,Customer_694,Telangana,Male,Doctorate,Divorced,1026949,77097.71,51,29,2024-05-22
+695,Customer_695,Karnataka,Male,High School,Divorced,1734667,66926.53,112,9,2024-01-03
+696,Customer_696,Kerala,Male,High School,Single,1206177,103664.99,83,46,2024-04-15
+697,Customer_697,Telangana,Male,Doctorate,Married,1818655,29407.35,208,12,2025-03-19
+698,Customer_698,Kerala,Female,High School,Divorced,348265,63883.1,171,34,2023-02-03
+699,Customer_699,Kerala,Female,Master,Divorced,1484508,85940.91,107,44,2023-03-24
+700,Customer_700,Telangana,Female,High School,Divorced,1614849,60958.67,27,8,2024-01-28
+701,Customer_701,Kerala,Female,High School,Married,968465,34537.44,287,46,2023-03-10
+702,Customer_702,Telangana,Male,Bachelor,Married,700449,85548.74,245,48,2025-08-19
+703,Customer_703,Telangana,Male,Bachelor,Married,939689,135710.63,258,44,2024-03-09
+704,Customer_704,Kerala,Male,High School,Married,923992,73337.49,257,34,2025-04-29
+705,Customer_705,Tamil Nadu,Female,Master,Married,1502229,61540.42,34,13,2025-07-02
+706,Customer_706,Andhra Pradesh,Male,High School,Married,574995,50372.18,40,7,2023-06-18
+707,Customer_707,Kerala,Male,Bachelor,Married,515617,132499.04,267,41,2023-01-24
+708,Customer_708,Kerala,Female,Bachelor,Married,927083,68818.2,11,19,2023-07-13
+709,Customer_709,Tamil Nadu,Male,Bachelor,Divorced,1551975,57022.83,297,22,2024-11-02
+710,Customer_710,Kerala,Female,Doctorate,Married,837706,89415.23,157,11,2025-03-19
+711,Customer_711,Kerala,Male,Doctorate,Married,804286,117764.96,25,10,2023-12-28
+712,Customer_712,Kerala,Female,Bachelor,Divorced,537200,109653.7,147,12,2025-09-23
+713,Customer_713,Karnataka,Male,Bachelor,Single,445193,15761.2,163,37,2023-05-10
+714,Customer_714,Andhra Pradesh,Female,Master,Single,630241,88748.21,18,43,2023-11-21
+715,Customer_715,Kerala,Male,Master,Married,1332182,146565.2,274,20,2023-05-05
+716,Customer_716,Tamil Nadu,Female,Doctorate,Single,1160581,139893.58,80,1,2025-09-20
+717,Customer_717,Telangana,Female,Master,Married,807811,145744.78,294,43,2023-05-31
+718,Customer_718,Telangana,Female,Master,Divorced,435542,112429.67,21,9,2024-11-25
+719,Customer_719,Telangana,Male,Master,Single,1042278,96453.08,113,29,2024-01-01
+720,Customer_720,Tamil Nadu,Female,High School,Divorced,1544930,37320.96,270,15,2025-03-11
+721,Customer_721,Kerala,Male,High School,Single,1329132,128923.19,45,33,2024-02-08
+722,Customer_722,Karnataka,Female,Master,Divorced,1468940,81617.82,29,43,2024-01-05
+723,Customer_723,Andhra Pradesh,Male,Doctorate,Married,1009736,62196.36,146,23,2023-12-26
+724,Customer_724,Kerala,Female,High School,Single,1726419,134292.68,213,29,2023-10-23
+725,Customer_725,Karnataka,Female,Doctorate,Single,1952194,92205.21,45,10,2023-08-01
+726,Customer_726,Kerala,Female,Master,Single,1438743,115855.97,46,1,2024-02-24
+727,Customer_727,Kerala,Female,Bachelor,Divorced,1169135,109434.58,71,13,2023-07-10
+728,Customer_728,Andhra Pradesh,Female,Doctorate,Single,1925535,125674.76,300,20,2024-05-20
+729,Customer_729,Telangana,Female,Bachelor,Single,1859307,10342.53,135,20,2025-09-05
+730,Customer_730,Andhra Pradesh,Male,Master,Married,576170,78864.11,126,2,2023-05-03
+731,Customer_731,Kerala,Female,High School,Divorced,1763564,60646.33,247,37,2024-03-22
+732,Customer_732,Kerala,Female,High School,Married,1274844,112614.02,9,17,2023-06-16
+733,Customer_733,Telangana,Male,Bachelor,Married,1166879,132964.42,70,23,2023-06-17
+734,Customer_734,Tamil Nadu,Female,Master,Married,1534306,137694.65,183,4,2023-10-24
+735,Customer_735,Kerala,Male,Bachelor,Divorced,584297,117056.51,86,35,2023-11-27
+736,Customer_736,Kerala,Female,Master,Divorced,1663743,106368.53,50,35,2024-08-16
+737,Customer_737,Kerala,Male,High School,Single,1286682,49398.49,249,27,2023-12-15
+738,Customer_738,Karnataka,Male,Bachelor,Single,1255670,40955.89,97,36,2024-09-20
+739,Customer_739,Telangana,Male,Doctorate,Married,360223,26319.19,68,2,2024-05-06
+740,Customer_740,Kerala,Female,Master,Single,1913454,71871.31,268,49,2025-09-20
+741,Customer_741,Kerala,Male,Master,Single,1761246,124040.38,114,9,2025-05-27
+742,Customer_742,Karnataka,Male,Master,Single,640068,28230.56,41,28,2024-12-08
+743,Customer_743,Tamil Nadu,Male,High School,Married,1788244,70374.65,101,7,2023-02-03
+744,Customer_744,Telangana,Male,Doctorate,Single,730605,16059.41,155,43,2023-01-11
+745,Customer_745,Tamil Nadu,Male,Bachelor,Divorced,619481,35869.46,180,2,2023-04-03
+746,Customer_746,Karnataka,Female,Master,Married,536713,129719.33,124,33,2024-08-06
+747,Customer_747,Tamil Nadu,Male,High School,Divorced,655077,110213.63,145,11,2025-07-12
+748,Customer_748,Telangana,Male,High School,Single,1257374,129181.55,244,24,2024-12-15
+749,Customer_749,Telangana,Male,Doctorate,Divorced,425075,35318.8,182,25,2024-03-10
+750,Customer_750,Karnataka,Male,Doctorate,Single,1796791,147845.79,64,30,2023-04-23
+751,Customer_751,Telangana,Male,Doctorate,Married,1677927,50357.98,21,6,2023-12-02
+752,Customer_752,Andhra Pradesh,Male,Doctorate,Married,1158284,94054.53,160,44,2025-09-26
+753,Customer_753,Andhra Pradesh,Male,Doctorate,Married,1993831,69914.63,36,31,2025-08-19
+754,Customer_754,Kerala,Male,High School,Divorced,1231061,104093.37,203,29,2024-06-19
+755,Customer_755,Tamil Nadu,Male,Bachelor,Married,1040170,107305.2,53,48,2025-08-05
+756,Customer_756,Karnataka,Male,Master,Single,910162,38036.89,207,8,2023-08-27
+757,Customer_757,Andhra Pradesh,Female,Master,Divorced,1806360,91468.61,140,49,2025-03-19
+758,Customer_758,Andhra Pradesh,Female,Doctorate,Divorced,1464929,143019.43,249,33,2023-10-13
+759,Customer_759,Karnataka,Female,High School,Single,725734,78507.79,119,41,2025-08-23
+760,Customer_760,Karnataka,Male,High School,Divorced,310839,126243.75,256,44,2023-01-28
+761,Customer_761,Karnataka,Female,Master,Single,834918,97075.35,50,49,2023-03-20
+762,Customer_762,Telangana,Female,Doctorate,Single,815646,102693.05,252,33,2023-09-25
+763,Customer_763,Telangana,Female,High School,Single,1102627,133217.59,61,25,2024-04-05
+764,Customer_764,Kerala,Female,Doctorate,Married,275457,14600.37,286,43,2025-05-31
+765,Customer_765,Kerala,Male,Doctorate,Married,482042,53744.35,200,32,2025-02-21
+766,Customer_766,Tamil Nadu,Female,Doctorate,Married,1379135,129609.21,260,4,2024-02-05
+767,Customer_767,Kerala,Female,Doctorate,Divorced,1618697,59386.93,146,21,2023-03-04
+768,Customer_768,Tamil Nadu,Male,Bachelor,Married,931647,123337.48,299,2,2025-02-22
+769,Customer_769,Kerala,Female,High School,Married,923817,148872.37,211,23,2023-02-27
+770,Customer_770,Karnataka,Male,Bachelor,Divorced,854520,92954.43,34,20,2023-04-28
+771,Customer_771,Kerala,Male,High School,Divorced,883916,15232.87,217,37,2024-06-11
+772,Customer_772,Andhra Pradesh,Female,High School,Divorced,1185032,92318.49,163,25,2024-08-07
+773,Customer_773,Andhra Pradesh,Female,High School,Married,409834,106720.96,106,22,2024-05-23
+774,Customer_774,Telangana,Female,Bachelor,Divorced,828140,60866.8,224,13,2024-05-23
+775,Customer_775,Tamil Nadu,Male,Master,Married,299680,51624.84,294,26,2025-04-03
+776,Customer_776,Karnataka,Male,High School,Divorced,906400,48271.09,291,34,2024-05-01
+777,Customer_777,Andhra Pradesh,Male,Master,Single,1566371,125323.45,259,20,2024-03-19
+778,Customer_778,Telangana,Female,Bachelor,Married,1043686,45177.07,264,30,2024-11-18
+779,Customer_779,Telangana,Male,High School,Divorced,1674993,82271.38,96,37,2024-05-26
+780,Customer_780,Karnataka,Female,Master,Divorced,1317193,123250.69,223,37,2025-01-14
+781,Customer_781,Tamil Nadu,Male,Master,Married,509840,43652.35,154,28,2024-02-25
+782,Customer_782,Kerala,Male,Bachelor,Married,759802,125319.5,83,17,2024-12-04
+783,Customer_783,Telangana,Male,Doctorate,Single,438149,30994.71,15,16,2025-03-27
+784,Customer_784,Kerala,Female,Doctorate,Divorced,1114637,69082.68,19,13,2023-06-13
+785,Customer_785,Kerala,Male,High School,Married,1856057,122495.35,282,12,2024-10-21
+786,Customer_786,Tamil Nadu,Female,High School,Single,376013,53946.67,153,5,2025-07-11
+787,Customer_787,Andhra Pradesh,Female,High School,Married,1961210,111392.82,72,16,2023-04-25
+788,Customer_788,Telangana,Male,Master,Married,389265,43330.76,63,50,2025-04-06
+789,Customer_789,Kerala,Female,Doctorate,Divorced,1760195,43031.33,217,14,2023-05-28
+790,Customer_790,Tamil Nadu,Male,Bachelor,Married,1121646,67172.58,29,32,2024-06-30
+791,Customer_791,Kerala,Male,Master,Divorced,1088733,76479.58,127,18,2025-06-19
+792,Customer_792,Karnataka,Female,Doctorate,Divorced,971205,124991.15,11,42,2025-09-17
+793,Customer_793,Telangana,Male,High School,Divorced,1854239,104023.8,130,36,2024-01-29
+794,Customer_794,Kerala,Female,High School,Divorced,695728,130070.6,199,1,2025-07-20
+795,Customer_795,Andhra Pradesh,Female,Master,Single,1925343,115933.51,153,14,2025-05-30
+796,Customer_796,Karnataka,Female,Master,Divorced,1052049,120504.44,141,6,2025-04-22
+797,Customer_797,Andhra Pradesh,Female,Doctorate,Married,1704467,69131.24,52,11,2024-12-16
+798,Customer_798,Kerala,Male,Master,Married,1462728,112092.42,281,48,2023-12-01
+799,Customer_799,Andhra Pradesh,Male,High School,Divorced,1545517,35723.55,228,42,2023-05-20
+800,Customer_800,Tamil Nadu,Female,Bachelor,Divorced,840779,53921.05,43,8,2023-06-11
+801,Customer_801,Karnataka,Male,Doctorate,Married,1146842,76971.17,69,17,2023-06-27
+802,Customer_802,Telangana,Female,Master,Single,376997,68029.5,94,26,2025-06-16
+803,Customer_803,Andhra Pradesh,Male,High School,Single,1371322,100594.94,118,6,2025-09-24
+804,Customer_804,Andhra Pradesh,Male,Master,Divorced,1986418,33625.83,206,40,2024-03-15
+805,Customer_805,Telangana,Female,Bachelor,Single,971584,33817.2,291,8,2023-01-15
+806,Customer_806,Telangana,Female,Doctorate,Divorced,1236305,26591.73,105,13,2025-08-26
+807,Customer_807,Kerala,Female,Doctorate,Married,473047,70383.2,106,39,2023-08-09
+808,Customer_808,Kerala,Male,Doctorate,Single,1056737,120944.89,15,19,2025-09-26
+809,Customer_809,Kerala,Male,Doctorate,Single,975186,91606.43,235,6,2023-01-11
+810,Customer_810,Andhra Pradesh,Male,Master,Divorced,1033732,106159.34,197,46,2024-03-09
+811,Customer_811,Telangana,Female,High School,Single,1368113,18225.32,171,16,2024-04-27
+812,Customer_812,Kerala,Male,High School,Married,1258101,96752.1,155,26,2024-11-18
+813,Customer_813,Kerala,Male,High School,Divorced,576170,46440.83,258,32,2025-08-10
+814,Customer_814,Kerala,Female,Bachelor,Single,865462,109435.78,222,10,2023-09-24
+815,Customer_815,Tamil Nadu,Female,High School,Single,1246920,132035.14,144,48,2024-01-05
+816,Customer_816,Andhra Pradesh,Female,Master,Divorced,1939774,116618.95,136,34,2023-11-17
+817,Customer_817,Andhra Pradesh,Male,Master,Divorced,1230277,116914.56,78,36,2025-05-23
+818,Customer_818,Andhra Pradesh,Male,Bachelor,Single,314435,42180.48,19,31,2023-09-24
+819,Customer_819,Karnataka,Female,Doctorate,Single,1237903,15710.84,183,46,2024-07-28
+820,Customer_820,Andhra Pradesh,Female,Doctorate,Single,1973851,110766.95,76,8,2023-12-24
+821,Customer_821,Tamil Nadu,Male,Master,Single,1951024,33561.3,261,18,2024-07-30
+822,Customer_822,Telangana,Male,High School,Divorced,1808196,89910.29,214,5,2023-09-10
+823,Customer_823,Andhra Pradesh,Male,Master,Single,796180,105383.73,63,26,2024-01-18
+824,Customer_824,Telangana,Male,Master,Single,260554,21348.85,246,30,2024-10-05
+825,Customer_825,Kerala,Male,Master,Single,1576094,97131.08,232,21,2025-08-28
+826,Customer_826,Telangana,Male,Bachelor,Single,1880988,100110.16,166,4,2025-01-31
+827,Customer_827,Tamil Nadu,Female,High School,Married,735117,34921.51,205,6,2023-01-22
+828,Customer_828,Karnataka,Male,Doctorate,Married,797553,100603.52,79,8,2023-11-02
+829,Customer_829,Andhra Pradesh,Female,Master,Divorced,1465659,28380.13,50,24,2024-06-08
+830,Customer_830,Karnataka,Female,Doctorate,Married,1199166,47587.12,217,6,2025-02-13
+831,Customer_831,Andhra Pradesh,Female,Bachelor,Married,1522644,69642.39,21,33,2023-12-16
+832,Customer_832,Andhra Pradesh,Male,Bachelor,Married,1305783,98138.34,269,6,2023-10-25
+833,Customer_833,Andhra Pradesh,Female,High School,Married,829970,30804.92,66,44,2025-07-13
+834,Customer_834,Kerala,Male,Doctorate,Married,1392305,16681.96,40,3,2024-06-09
+835,Customer_835,Tamil Nadu,Female,Doctorate,Single,1174455,102519.74,292,17,2023-12-30
+836,Customer_836,Kerala,Male,High School,Single,1752974,102620.97,92,12,2025-05-13
+837,Customer_837,Andhra Pradesh,Male,High School,Married,1677188,51670.65,233,49,2024-11-17
+838,Customer_838,Andhra Pradesh,Female,Master,Single,642642,35912.23,133,44,2023-04-19
+839,Customer_839,Andhra Pradesh,Male,High School,Married,444692,11862.64,245,30,2024-12-09
+840,Customer_840,Andhra Pradesh,Female,Master,Divorced,1905262,146349.06,185,45,2024-11-20
+841,Customer_841,Andhra Pradesh,Female,High School,Single,483354,11942.63,58,2,2024-12-13
+842,Customer_842,Karnataka,Male,Bachelor,Married,1560261,30321.59,124,28,2025-05-12
+843,Customer_843,Telangana,Male,High School,Married,1814222,74879.58,243,28,2023-01-23
+844,Customer_844,Tamil Nadu,Male,Bachelor,Divorced,1673455,72337.23,249,31,2023-01-21
+845,Customer_845,Andhra Pradesh,Male,Bachelor,Married,1394182,126123.11,201,4,2023-12-08
+846,Customer_846,Tamil Nadu,Male,Doctorate,Married,1979677,79398.45,297,39,2025-01-18
+847,Customer_847,Telangana,Female,High School,Married,1038190,78054.13,250,15,2025-01-01
+848,Customer_848,Tamil Nadu,Male,Doctorate,Divorced,862385,87455.8,138,42,2024-03-03
+849,Customer_849,Andhra Pradesh,Male,Doctorate,Divorced,1555137,58546.98,224,2,2023-06-15
+850,Customer_850,Kerala,Male,Doctorate,Married,1118784,42494.44,113,38,2025-07-19
+851,Customer_851,Kerala,Female,Bachelor,Married,1716230,109593.93,214,44,2024-10-30
+852,Customer_852,Kerala,Female,Bachelor,Divorced,634547,49544.01,45,43,2024-05-09
+853,Customer_853,Karnataka,Male,Bachelor,Single,1470347,78906.0,213,32,2023-11-07
+854,Customer_854,Karnataka,Male,High School,Single,952430,133326.85,183,44,2023-06-12
+855,Customer_855,Karnataka,Male,High School,Married,1103076,25955.7,117,8,2024-07-29
+856,Customer_856,Karnataka,Female,Master,Married,1846024,59733.74,24,50,2025-06-17
+857,Customer_857,Telangana,Female,Bachelor,Divorced,1280845,94600.53,54,46,2023-02-21
+858,Customer_858,Andhra Pradesh,Female,High School,Single,1839243,95480.16,53,36,2023-02-12
+859,Customer_859,Telangana,Male,Bachelor,Divorced,447588,131921.73,186,11,2025-01-15
+860,Customer_860,Kerala,Female,Doctorate,Divorced,408235,31601.4,187,22,2025-04-18
+861,Customer_861,Karnataka,Male,Bachelor,Married,1071890,117690.7,4,16,2025-05-04
+862,Customer_862,Andhra Pradesh,Female,Master,Divorced,559162,21932.74,191,46,2025-02-11
+863,Customer_863,Andhra Pradesh,Female,Bachelor,Single,1779588,115491.0,216,15,2023-05-22
+864,Customer_864,Andhra Pradesh,Female,Doctorate,Married,1987592,82261.74,186,2,2024-03-29
+865,Customer_865,Karnataka,Male,High School,Single,909474,54072.64,85,28,2023-03-04
+866,Customer_866,Andhra Pradesh,Male,Bachelor,Divorced,321235,146882.62,267,19,2024-03-05
+867,Customer_867,Andhra Pradesh,Female,Master,Married,216572,125780.5,271,40,2025-07-31
+868,Customer_868,Karnataka,Female,Doctorate,Divorced,630196,134261.17,227,45,2023-12-20
+869,Customer_869,Andhra Pradesh,Male,Master,Single,277532,85240.69,200,47,2025-01-06
+870,Customer_870,Karnataka,Female,Bachelor,Single,1273053,87250.02,267,22,2025-02-14
+871,Customer_871,Karnataka,Male,High School,Divorced,1442570,46216.63,156,47,2024-03-08
+872,Customer_872,Telangana,Male,High School,Married,744748,97778.53,182,8,2023-02-18
+873,Customer_873,Tamil Nadu,Female,Master,Divorced,1745304,10729.88,174,16,2025-04-04
+874,Customer_874,Telangana,Male,Master,Married,796714,103369.13,294,44,2023-05-24
+875,Customer_875,Andhra Pradesh,Male,High School,Married,1283077,91531.67,185,30,2023-04-11
+876,Customer_876,Karnataka,Female,Doctorate,Single,393459,18707.11,67,31,2023-08-08
+877,Customer_877,Andhra Pradesh,Male,Master,Divorced,1303637,66385.52,287,34,2025-03-08
+878,Customer_878,Andhra Pradesh,Female,Doctorate,Divorced,1087980,149511.65,251,47,2025-09-23
+879,Customer_879,Andhra Pradesh,Male,Bachelor,Divorced,466598,77867.02,235,9,2025-09-18
+880,Customer_880,Telangana,Male,Bachelor,Married,1192698,14565.03,81,36,2024-01-14
+881,Customer_881,Tamil Nadu,Female,High School,Single,975077,90047.07,21,34,2023-06-06
+882,Customer_882,Tamil Nadu,Female,Master,Married,835982,51157.38,15,10,2023-05-26
+883,Customer_883,Telangana,Female,High School,Married,794505,40181.4,251,1,2023-05-06
+884,Customer_884,Telangana,Female,High School,Single,1075718,77364.7,159,37,2024-04-08
+885,Customer_885,Kerala,Female,Doctorate,Divorced,1948360,94799.36,71,33,2024-10-13
+886,Customer_886,Andhra Pradesh,Female,Doctorate,Single,1726441,55530.28,210,25,2023-08-27
+887,Customer_887,Andhra Pradesh,Female,High School,Divorced,1129240,113027.79,46,11,2024-12-25
+888,Customer_888,Tamil Nadu,Female,High School,Divorced,1373047,21921.28,278,37,2025-02-14
+889,Customer_889,Tamil Nadu,Male,Doctorate,Divorced,239141,26839.64,273,12,2025-09-12
+890,Customer_890,Tamil Nadu,Female,Bachelor,Single,1939987,108786.48,297,29,2023-03-28
+891,Customer_891,Telangana,Female,Doctorate,Divorced,294337,78806.23,12,22,2024-03-23
+892,Customer_892,Karnataka,Female,High School,Divorced,865599,63481.54,47,8,2023-04-12
+893,Customer_893,Telangana,Male,Master,Single,583084,45777.63,46,10,2023-11-11
+894,Customer_894,Andhra Pradesh,Male,High School,Divorced,882184,35404.1,30,20,2024-02-04
+895,Customer_895,Tamil Nadu,Female,Bachelor,Married,879933,46110.8,62,4,2023-07-27
+896,Customer_896,Karnataka,Male,Doctorate,Divorced,1777876,80618.98,59,18,2023-03-04
+897,Customer_897,Kerala,Female,Doctorate,Single,1215381,14046.9,120,2,2023-10-03
+898,Customer_898,Telangana,Male,Bachelor,Divorced,1566401,119929.99,156,37,2024-02-21
+899,Customer_899,Andhra Pradesh,Male,Bachelor,Single,982877,85661.57,87,16,2024-07-04
+900,Customer_900,Andhra Pradesh,Female,High School,Single,1904237,75051.29,149,42,2025-09-22
+901,Customer_901,Karnataka,Male,High School,Married,773157,93701.49,195,23,2025-05-12
+902,Customer_902,Karnataka,Female,High School,Single,1750178,84772.5,36,20,2023-04-02
+903,Customer_903,Andhra Pradesh,Male,Bachelor,Divorced,1367021,149834.98,222,14,2024-09-17
+904,Customer_904,Telangana,Female,Master,Divorced,748112,147149.65,232,18,2023-09-09
+905,Customer_905,Kerala,Female,Bachelor,Married,1457271,55984.01,69,42,2025-08-02
+906,Customer_906,Tamil Nadu,Female,High School,Single,1610767,34295.04,285,45,2024-12-21
+907,Customer_907,Andhra Pradesh,Female,High School,Divorced,1565804,20853.24,16,43,2024-03-31
+908,Customer_908,Tamil Nadu,Female,Doctorate,Divorced,950708,64145.14,5,8,2024-04-18
+909,Customer_909,Kerala,Male,Doctorate,Single,664562,114040.22,144,44,2025-08-01
+910,Customer_910,Kerala,Male,High School,Divorced,1511216,52444.99,114,15,2024-05-20
+911,Customer_911,Kerala,Male,Master,Married,1676495,108975.52,108,1,2023-07-20
+912,Customer_912,Andhra Pradesh,Male,Master,Divorced,1249258,79161.59,283,13,2024-11-06
+913,Customer_913,Telangana,Male,High School,Divorced,468952,114436.28,66,17,2025-08-13
+914,Customer_914,Telangana,Male,Master,Single,1977686,104917.02,273,40,2023-09-16
+915,Customer_915,Telangana,Female,High School,Married,1544203,104233.97,27,21,2024-03-18
+916,Customer_916,Andhra Pradesh,Female,High School,Divorced,1286943,75322.14,186,34,2025-02-16
+917,Customer_917,Tamil Nadu,Male,High School,Married,1080934,84537.44,162,1,2024-02-06
+918,Customer_918,Karnataka,Female,High School,Divorced,1893812,13552.07,116,45,2024-03-09
+919,Customer_919,Tamil Nadu,Male,Bachelor,Single,890434,53512.82,50,2,2024-05-06
+920,Customer_920,Andhra Pradesh,Male,Master,Married,718318,25097.69,123,22,2025-05-02
+921,Customer_921,Tamil Nadu,Female,Bachelor,Single,1826864,93995.06,225,49,2023-04-08
+922,Customer_922,Andhra Pradesh,Male,High School,Single,269926,62835.32,34,9,2023-03-05
+923,Customer_923,Andhra Pradesh,Male,Master,Divorced,1513205,70457.46,53,44,2023-02-27
+924,Customer_924,Telangana,Male,Master,Married,1042390,23416.24,211,15,2025-06-04
+925,Customer_925,Telangana,Male,Doctorate,Married,1173517,121323.05,52,22,2024-10-28
+926,Customer_926,Tamil Nadu,Female,Master,Divorced,603662,25120.92,7,39,2024-12-31
+927,Customer_927,Tamil Nadu,Male,Bachelor,Divorced,1267236,45880.05,216,31,2025-01-12
+928,Customer_928,Telangana,Female,Bachelor,Single,488720,121583.58,31,9,2023-11-16
+929,Customer_929,Telangana,Female,Master,Married,1424036,133931.07,75,10,2024-04-25
+930,Customer_930,Kerala,Female,Master,Married,216948,82475.28,75,4,2023-09-01
+931,Customer_931,Telangana,Male,Doctorate,Married,609798,146711.51,104,5,2023-12-16
+932,Customer_932,Karnataka,Female,Doctorate,Divorced,1652097,56360.36,297,37,2025-09-13
+933,Customer_933,Kerala,Female,Doctorate,Married,540325,24678.71,22,32,2023-08-13
+934,Customer_934,Tamil Nadu,Male,Bachelor,Married,1508455,39839.39,247,48,2025-02-25
+935,Customer_935,Kerala,Female,Bachelor,Married,586388,125651.81,4,24,2023-01-11
+936,Customer_936,Tamil Nadu,Female,High School,Divorced,441569,29936.28,226,13,2024-10-08
+937,Customer_937,Telangana,Female,High School,Single,617590,37695.5,90,15,2025-06-25
+938,Customer_938,Kerala,Male,Master,Divorced,715824,34995.8,12,12,2025-05-13
+939,Customer_939,Kerala,Male,High School,Divorced,487820,63049.19,57,22,2025-08-16
+940,Customer_940,Karnataka,Female,Doctorate,Single,975192,123328.29,88,34,2025-09-27
+941,Customer_941,Telangana,Female,High School,Single,502896,133581.24,67,13,2023-07-16
+942,Customer_942,Telangana,Female,Master,Married,1457345,70135.62,126,3,2025-02-20
+943,Customer_943,Telangana,Male,Master,Single,887196,44604.03,144,9,2025-05-21
+944,Customer_944,Telangana,Female,Bachelor,Divorced,370724,119853.13,34,11,2024-06-04
+945,Customer_945,Andhra Pradesh,Female,Doctorate,Divorced,1173639,35059.79,192,34,2024-12-12
+946,Customer_946,Andhra Pradesh,Female,Doctorate,Married,1418836,66132.45,299,42,2023-02-07
+947,Customer_947,Karnataka,Male,Bachelor,Married,691540,65426.0,157,28,2025-06-29
+948,Customer_948,Andhra Pradesh,Male,Master,Married,1354591,21866.25,44,19,2024-03-31
+949,Customer_949,Telangana,Female,Bachelor,Divorced,286282,75135.44,173,28,2024-04-06
+950,Customer_950,Andhra Pradesh,Female,Doctorate,Married,1887168,79656.03,140,25,2023-01-26
+951,Customer_951,Karnataka,Female,Bachelor,Married,1553407,20624.38,43,19,2025-05-12
+952,Customer_952,Telangana,Male,Master,Single,406378,26602.3,185,3,2024-07-13
+953,Customer_953,Karnataka,Female,Bachelor,Divorced,890469,45003.31,141,13,2024-12-23
+954,Customer_954,Telangana,Male,Master,Single,1814966,51926.38,178,26,2025-08-26
+955,Customer_955,Andhra Pradesh,Male,Doctorate,Divorced,1275098,148498.45,77,26,2023-08-22
+956,Customer_956,Karnataka,Male,Doctorate,Single,1281764,92180.51,283,49,2024-04-24
+957,Customer_957,Andhra Pradesh,Female,High School,Married,1973774,36298.52,214,14,2024-03-25
+958,Customer_958,Andhra Pradesh,Male,Master,Single,1411122,132325.03,157,48,2023-01-10
+959,Customer_959,Andhra Pradesh,Female,Master,Single,1079015,69600.71,207,49,2025-03-08
+960,Customer_960,Telangana,Female,Master,Divorced,248737,89460.84,17,9,2023-06-07
+961,Customer_961,Kerala,Female,Doctorate,Single,1019223,18919.29,198,13,2024-05-01
+962,Customer_962,Tamil Nadu,Female,Doctorate,Divorced,838887,23053.81,54,44,2024-07-20
+963,Customer_963,Karnataka,Male,Doctorate,Single,591521,37859.82,198,19,2023-07-30
+964,Customer_964,Karnataka,Female,High School,Married,320488,61611.32,6,11,2023-12-01
+965,Customer_965,Andhra Pradesh,Female,Bachelor,Single,470821,85103.42,245,48,2023-03-12
+966,Customer_966,Andhra Pradesh,Male,Bachelor,Single,849607,70508.09,244,11,2024-09-10
+967,Customer_967,Telangana,Female,Bachelor,Divorced,1703179,105877.03,142,13,2023-01-08
+968,Customer_968,Karnataka,Female,High School,Married,1468459,123059.22,270,22,2025-07-21
+969,Customer_969,Telangana,Female,Doctorate,Married,1408237,15471.87,47,19,2024-10-23
+970,Customer_970,Andhra Pradesh,Female,Master,Married,1485611,125280.14,90,27,2023-09-13
+971,Customer_971,Karnataka,Female,Doctorate,Married,1582191,35682.2,292,7,2024-02-07
+972,Customer_972,Tamil Nadu,Male,Bachelor,Married,1517185,85283.26,35,45,2025-01-13
+973,Customer_973,Karnataka,Female,Doctorate,Divorced,454239,149344.29,40,49,2023-04-18
+974,Customer_974,Telangana,Female,Doctorate,Married,545692,45387.33,260,3,2024-04-18
+975,Customer_975,Tamil Nadu,Male,Doctorate,Married,920702,114434.04,100,26,2023-02-08
+976,Customer_976,Tamil Nadu,Female,High School,Divorced,486220,55795.45,238,32,2024-04-17
+977,Customer_977,Tamil Nadu,Male,Bachelor,Divorced,1117973,29635.81,143,11,2023-06-24
+978,Customer_978,Tamil Nadu,Male,Bachelor,Married,460364,84851.54,201,11,2023-03-21
+979,Customer_979,Tamil Nadu,Female,Bachelor,Married,950962,34911.63,18,44,2024-06-29
+980,Customer_980,Karnataka,Female,High School,Divorced,1901863,83202.43,53,25,2024-12-07
+981,Customer_981,Kerala,Female,High School,Divorced,209784,16813.06,194,50,2023-07-26
+982,Customer_982,Karnataka,Female,Bachelor,Single,391651,12245.38,15,1,2023-12-12
+983,Customer_983,Karnataka,Male,Bachelor,Single,1871271,126953.91,86,47,2023-06-21
+984,Customer_984,Tamil Nadu,Female,High School,Married,876708,88687.58,98,40,2023-08-01
+985,Customer_985,Telangana,Female,Doctorate,Single,687395,39929.2,183,21,2023-06-27
+986,Customer_986,Tamil Nadu,Female,Master,Single,1016183,39787.51,113,5,2024-11-04
+987,Customer_987,Kerala,Female,High School,Single,658355,67553.56,256,7,2024-12-30
+988,Customer_988,Telangana,Male,Master,Single,1458012,55409.6,199,44,2025-08-04
+989,Customer_989,Karnataka,Female,Bachelor,Divorced,1797434,133755.38,163,43,2024-05-08
+990,Customer_990,Tamil Nadu,Female,High School,Divorced,1426911,72847.62,262,41,2025-01-29
+991,Customer_991,Karnataka,Male,Bachelor,Single,1492576,116251.74,64,20,2023-08-31
+992,Customer_992,Andhra Pradesh,Male,High School,Single,488474,62433.31,152,13,2023-06-05
+993,Customer_993,Andhra Pradesh,Male,High School,Single,1721082,93730.53,228,48,2025-06-17
+994,Customer_994,Kerala,Male,Master,Married,1549731,120175.92,21,34,2025-03-21
+995,Customer_995,Andhra Pradesh,Female,High School,Single,1976151,112602.24,176,16,2023-07-30
+996,Customer_996,Telangana,Male,Bachelor,Divorced,1660200,110730.31,196,34,2023-11-26
+997,Customer_997,Karnataka,Female,High School,Single,1231048,19797.89,99,4,2024-10-11
+998,Customer_998,Karnataka,Male,Bachelor,Single,564224,92968.29,105,16,2024-06-03
+999,Customer_999,Tamil Nadu,Female,Doctorate,Married,544265,111034.33,126,28,2023-06-30
+1000,Customer_1000,Telangana,Male,Master,Married,1408844,72757.97,104,18,2025-06-02
